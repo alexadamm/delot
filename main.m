@@ -3,7 +3,7 @@ terra/chat/app
 terra/chat/log
 
 include ./topics/learn.m
-include ./topics/likes.m.m
+include ./topics/likes.m
 
 : welcome
 q{
