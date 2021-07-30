@@ -2,9 +2,7 @@ terra/chat
 terra/chat/app
 terra/chat/log
 
-include ./topics/simple.m
-include ./topics/bad-language.m
-include ./topics/likes.m
+include ./topics/learn.m
 
 : welcome
 q{
@@ -28,8 +26,6 @@ idk: I don't understand the question.
   "Do you like science?" answer . cr
   "Are you good at chemistry?" answer . cr
   "Do you love math?" answer . cr
-  
-  "lovely the scientist" answer . cr
 ;
 
 : update-log 
