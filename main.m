@@ -1,8 +1,3 @@
-\
-\ @author: Arnold Doray
-\ @date: 26 Nov 2020
-\
-
 terra/chat
 terra/chat/app
 terra/chat/log
