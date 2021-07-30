@@ -3,6 +3,7 @@ terra/chat/app
 terra/chat/log
 
 include ./topics/learn.m
+include ./topics/likes.m.m
 
 : welcome
 q{
@@ -19,10 +20,6 @@ idk: I don't understand the question.
 
 : test 
   \ NOTE: Add your questions to test here.
-  "Are you an idiot?" answer . cr
-  "Are you silly?" answer . cr 
-  "Do you like bananas?" answer . cr
-  cr
   "Do you like science?" answer . cr
   "Are you good at chemistry?" answer . cr
   "Do you love math?" answer . cr
