@@ -1,9 +1,24 @@
+\
+\ Copyright © 2021 '34th Team Ai4Impact' all rights reserved.
+\
+\ @author: 34th Team Ai4Impact
+\ @date: 31 Jul 2021
+\
+\ A brief description of this program.
+\
+
 terra/chat
 terra/chat/app
 terra/chat/log
 
 include ./topics/learn.m
+include ./topics/quiz.m
+include ./topics/count.m
+include ./topics/main-button.m
+
+\ File Eksperimen
 include ./topics/likes.m
+
 
 : welcome
 q{
@@ -20,9 +35,17 @@ idk: I don't understand the question.
 
 : test 
   \ NOTE: Add your questions to test here.
+  "Are you an idiot?" answer . cr
+  "Are you silly?" answer . cr 
+  "Do you like bananas?" answer . cr
+  cr
   "Do you like science?" answer . cr
   "Are you good at chemistry?" answer . cr
   "Do you love math?" answer . cr
+  
+  "ya" answer . cr
+  "Belajar" answer . cr
+  "Mulai Belajar" answer . cr
 ;
 
 : update-log 
@@ -86,6 +109,8 @@ idk: I don't understand the question.
   thumbnail: https://images.pexels.com/photos/3394658/pexels-photo-3394658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100
   
 ;
+
+
 
 
 
