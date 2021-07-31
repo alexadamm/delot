@@ -1,4 +1,13 @@
-\ File buat test
+\
+\ Copyright © 2021 '34th Team Ai4Impact' all rights reserved.
+\
+\ @author: 34th Team Ai4Impact
+\ @date: 31 Jul 2021
+\
+\ A brief description of this program.
+\
+
+\ File Eksperimen
 
 @: likes loves asku
 likes: science math|mathematic|mathematics chem|chemistry
