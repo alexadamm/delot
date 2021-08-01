@@ -20,18 +20,18 @@ q{
 
 : startStudyMsg
 q{
-<h4> Listrik merupakan suatu suatu yang bermuatan positif dan negatif, mengalir melalui penghantar. Sementara dinamis ialah bergerak, berubah-ubah. <br>
-Jadi, "listrik dinamis" adalah listrik yang bisa bergerak dan listrik dinamis ini terjadi karena ada arus listrik searah dan arus listrik bolak-balik. <br>
-Contohnya pada lampu, bel listrik dll. <br> <br>
-Apakah kalian tahu apa itu arus listrik? <br>
-Arus listrik adalah aliran muatan. <br>
-Arus listrik ini mengalir dari kutub negatif ke kutub positif. <br>
-Ada beberapa syarat terjadinya arus listrik, yaitu : Harus ada perbedaan potensial dan rangkaian listriknya harus tertutup. <br>
-Jadi, arus listrik dapat mengalir karena dipengaruhi oleh beda potensial dan besarnya hambatan. Sehingga, semakin besar nilai dan sumber tegangan, maka akan semakin besar pula jumlah arus listriknya. Tapi jika hambatannya diperbesar, maka besar arus akan semakin berkurang <br>
-Berikut ini merupakan rumus arus listrik :
-(...) <br><br><br>
-Arus listrik ini dapat mengalir karena adanya rangkaian listrik. Nah, sekarang mari kita bahas rangkaian listrik.
-</h4>
+<h4> Listrik merupakan suatu suatu yang bermuatan positif dan negatif, mengalir melalui penghantar. Sementara dinamis ialah bergerak, berubah-ubah. </h4> <br>
+<h4> Jadi, "listrik dinamis" adalah listrik yang bisa bergerak dan listrik dinamis ini terjadi karena ada arus listrik searah dan arus listrik bolak-balik. </h4><br>
+<h4> Contohnya pada lampu, bel listrik dll. </h4> <br>
+<h4> Apakah kalian tahu apa itu arus listrik? </h4><br>
+<h4> Arus listrik adalah aliran muatan. </h4> <br>
+<h4> Arus listrik ini mengalir dari kutub negatif ke kutub positif. </h4> <br>
+<h4> Ada beberapa syarat terjadinya arus listrik, yaitu : Harus ada perbedaan potensial dan rangkaian listriknya harus tertutup. </h4> <br>
+<h4> Jadi, arus listrik dapat mengalir karena dipengaruhi oleh beda potensial dan besarnya hambatan. Sehingga, semakin besar nilai dan sumber tegangan, maka akan semakin besar pula jumlah arus listriknya. 
+Tapi jika hambatannya diperbesar, maka besar arus akan semakin berkurang </h4><br>
+<h4> Berikut ini merupakan rumus arus listrik : </h4>
+<h4> (...) <br><br> </h4>
+<h4> Arus listrik ini dapat mengalir karena adanya rangkaian listrik. Nah, sekarang mari kita bahas rangkaian listrik. </h4>
 }q
 ;
 
