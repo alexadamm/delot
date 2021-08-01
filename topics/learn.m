@@ -48,13 +48,21 @@ Rangkaian listrik paralel adalah rangkaian listrik yang memiliki percabangan kab
 
 : study3rdMsg
 q{
-<h4> Konten Belajar #3 </h4>
+<h4> Dalam rangkaian listrik, berlaku Hukum Kirchoff. <br>
+Hukum Kirchoff menyatakan bahwa kuat arus listrik yang menuju titik cabangsama besarnya dengan laju muatan atau kuat arus listrik yang keluar dari titik cabang <br>
+Secara matematis, Hukum Kirchoff dirumuskan ke dalam bentuk : Σ Imasuk = Σ Ikeluar <br>
+</h4>
 }q
 ;
 
 : study4thMsg
 q{
-<h4> Konten Belajar #4 </h4>
+<h4> Rangkaian listrik juga dapat memiliki hambatan di jalurnya yang dapat dinamakan rangkaian hambatan listrik. <br>
+Rangkaian hambatan listrik terbagi menjadi 2 macam, yaitu rangkaian seri dan rangkaian paralel. <br>
+Perbedaan kedua rangkaian tersebut dapat kita tinjau berdasarkan hubungan tegangan listrik (v) dengan kuat arus (I). <br>
+Dalam rangkaian seri, kuat arus listrik di tiap titik sama, tetapi tegangan listriknya berbeda. <br>
+Sedangkan dalam rangkaian paralel, tegangan listriknya sama di tiap titik, tetapi kuat arus listriknya berbeda. <br>
+</h4>
 }q
 ;
 
