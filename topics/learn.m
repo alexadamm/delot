@@ -22,19 +22,27 @@ q{
 q{
 <h4> Listrik merupakan suatu suatu yang bermuatan positif dan negatif, mengalir melalui penghantar. Sementara dinamis ialah bergerak, berubah-ubah. <br>
 Jadi, "listrik dinamis" adalah listrik yang bisa bergerak dan listrik dinamis ini terjadi karena ada arus listrik searah dan arus listrik bolak-balik. <br>
-contohnya pada lampu, bel listrik dll. <br> <br>
+Contohnya pada lampu, bel listrik dll. <br> <br>
 Apakah kalian tahu apa itu arus listrik? <br>
 Arus listrik adalah aliran muatan. <br>
 Arus listrik ini mengalir dari kutub negatif ke kutub positif. <br>
-Ada beberapa syarat terjadinya arus listrik, yaitu : Harus ada perbedaan potensial dan rangkaian listriknya harus tertutup. <br> <br>
+Ada beberapa syarat terjadinya arus listrik, yaitu : Harus ada perbedaan potensial dan rangkaian listriknya harus tertutup. <br>
+Jadi, arus listrik dapat mengalir karena dipengaruhi oleh beda potensial dan besarnya hambatan. Sehingga, semakin besar nilai dan sumber tegangan, maka akan semakin besar pula jumlah arus listriknya. Tapi jika hambatannya diperbesar, maka besar arus akan semakin berkurang <br>
 Berikut ini merupakan rumus arus listrik :
+(...) <br><br><br>
+Arus listrik ini dapat mengalir karena adanya rangkaian listrik. Nah, sekarang mari kita bahas rangkaian listrik.
 </h4>
 }q
 ;
 
 : study2ndMsg
 q{
-<h4> Konten Belajar #2 </h4>
+<h4> Rangkaian listrik adalah rangkaian alat-alat listrik yang terhubung, tersambung dan teraliri arus listrik. <br>
+Rangkaian listrik dibagi menjadi 2, yaitu rangkaian listrik seri dan rangkaian listrik paralel. <br><br>
+Rangkaian listrik seri adalah rangkaian listrik yang tidak memiliki percobaan kabel. Sehingga, jika salah satu kabel terputus, maka arus listrik pun akan terputus. <br>
+Rangkaian listrik paralel adalah rangkaian listrik yang memiliki percabangan kabel. Sehingga, jika salah satu kabel terputus maka arus listrik akan tetap mengalir pada kabel lainnya yang masih terhubung dan beberapa lampu lainnya akan tetap menyala. <br>
+<br> Agar tidak terjadi hubungan arus pendek (penyebab paling dominan pemicu kebakaran akibat arus listrik) maka harus ada hambatan.<br>
+</h4>
 }q
 ;
 
