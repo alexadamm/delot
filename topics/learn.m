@@ -62,7 +62,7 @@ q{
 <h> Perbedaan kedua rangkaian tersebut dapat kita tinjau berdasarkan hubungan tegangan listrik (v) dengan kuat arus (I). </h>
 <h> Dalam rangkaian seri, kuat arus listrik di tiap titik sama, tetapi tegangan listriknya berbeda. </h>
 <h> Sedangkan dalam rangkaian paralel, tegangan listriknya sama di tiap titik, tetapi kuat arus listriknya berbeda.
-</h4>
+</h>
 }q
 ;
 
