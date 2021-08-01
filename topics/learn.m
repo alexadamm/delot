@@ -20,7 +20,15 @@ q{
 
 : startStudyMsg
 q{
-<h4> Konten Belajar #1 </h4>
+<h4> Listrik merupakan suatu suatu yang bermuatan positif dan negatif, mengalir melalui penghantar. Sementara dinamis ialah bergerak, berubah-ubah. <br>
+Jadi, "listrik dinamis" adalah listrik yang bisa bergerak dan listrik dinamis ini terjadi karena ada arus listrik searah dan arus listrik bolak-balik. <br>
+contohnya pada lampu, bel listrik dll. <br> <br>
+Apakah kalian tahu apa itu arus listrik? <br>
+Arus listrik adalah aliran muatan. <br>
+Arus listrik ini mengalir dari kutub negatif ke kutub positif. <br>
+Ada beberapa syarat terjadinya arus listrik, yaitu : Harus ada perbedaan potensial dan rangkaian listriknya harus tertutup. <br> <br>
+Berikut ini merupakan rumus arus listrik :
+</h4>
 }q
 ;
 
