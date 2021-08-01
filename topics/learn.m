@@ -14,7 +14,7 @@ showLearnMenu: belajar kembali_ke_menu_belajar
 
 : learnMenuMsg
 q{
-<h1>Kosong</h1>
+<h1>Menu Belajar</h1>
 }q
 ;
 
