@@ -22,7 +22,6 @@ q{
 
 : startStudyMsg
 q{
-<<<<<<< HEAD
 <h3><i> Hantaran Listrik </i></h2>
 <p> &#129046; Kemampuan penghantar untuk memindahkan muatan listrik.</p>
 <ul style="list-style-type:square;">
@@ -32,26 +31,11 @@ q{
 </ul>
 <br>
 <p align="center">Selanjutnya: Simbol dan Rumus Hambatan</p>
-=======
-<h> Listrik merupakan suatu suatu yang bermuatan positif dan negatif, mengalir melalui penghantar. Sementara dinamis ialah bergerak, berubah-ubah. </h> 
-<h> Jadi, "listrik dinamis" adalah listrik yang bisa bergerak dan listrik dinamis ini terjadi karena ada arus listrik searah dan arus listrik bolak-balik. </h>
-<h> Contohnya pada lampu, bel listrik dll. </>
-<h> Apakah kalian tahu apa itu arus listrik? </h>
-<h> Arus listrik adalah aliran muatan. </h>
-<h> Arus listrik ini mengalir dari kutub negatif ke kutub positif. </h>
-<h> Ada beberapa syarat terjadinya arus listrik, yaitu : Harus ada perbedaan potensial dan rangkaian listriknya harus tertutup. </h>
-<h> Jadi, arus listrik dapat mengalir karena dipengaruhi oleh beda potensial dan besarnya hambatan. Sehingga, semakin besar nilai dan sumber tegangan, maka akan semakin besar pula jumlah arus listriknya. 
-Tapi jika hambatannya diperbesar, maka besar arus akan semakin berkurang </h>
-<h> Berikut ini merupakan rumus arus listrik : </h>
-<h> (...) <br><br> </h>
-<h> Arus listrik ini dapat mengalir karena adanya rangkaian listrik. Nah, sekarang mari kita bahas rangkaian listrik. </h>
->>>>>>> 1309573c8b51409dd3a9d46e935f65e88578f436
 }q
 ;
 
 : study2ndMsg
 q{
-<<<<<<< HEAD
 <h3><i>Hambatan Listrik</i></h3>
 <h4> Simbol </h4>
 <a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/TB81Smc/Simbol-Hambatan.png" alt="Simbol-Hambatan" border="0"></a><br>
@@ -63,20 +47,11 @@ q{
 <p> A  : luas penampang kawat (m^2)</p>
 <br>
 <p align="center"> Selanjutnya: Listrik Dinamis </p>
-=======
-<h> Rangkaian listrik adalah rangkaian alat-alat listrik yang terhubung, tersambung dan teraliri arus listrik. </h>
-<h> Rangkaian listrik dibagi menjadi 2, yaitu rangkaian listrik seri dan rangkaian listrik paralel. </h> <br>
-<h>Rangkaian listrik seri adalah rangkaian listrik yang tidak memiliki percobaan kabel. Sehingga, jika salah satu kabel terputus, maka arus listrik pun akan terputus. </h>
-<h>Rangkaian listrik paralel adalah rangkaian listrik yang memiliki percabangan kabel. Sehingga, jika salah satu kabel terputus maka arus listrik akan tetap mengalir pada kabel lainnya yang masih terhubung dan beberapa lampu lainnya akan tetap menyala. </h>
-<h> Agar tidak terjadi hubungan arus pendek (penyebab paling dominan pemicu kebakaran akibat arus listrik) maka harus ada hambatan. 
-</h>
->>>>>>> 1309573c8b51409dd3a9d46e935f65e88578f436
 }q
 ;
 
 : study3rdMsg
 q{
-<<<<<<< HEAD
 <h2><i> Listrik Dinamis </i></h2>
 <h3><i> Definisi </i></h3>
 <p> &#129046; Listrik dinamis adalah listrik yang bisa bergerak. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik </p>
@@ -97,18 +72,11 @@ q{
 <p> t  : waktu (s)</p>
 <br>
 <p align="center"> Selanjutnya: Rangkaian Listrik dan Hukum Kirchhoff</p>
-=======
-<h> Dalam rangkaian listrik, berlaku Hukum Kirchoff. </h>
-<h> Hukum Kirchoff menyatakan bahwa kuat arus listrik yang menuju titik cabangsama besarnya dengan laju muatan atau kuat arus listrik yang keluar dari titik cabang </h>
-<h> Secara matematis, Hukum Kirchoff dirumuskan ke dalam bentuk : Σ Imasuk = Σ Ikeluar
-</h>
->>>>>>> 1309573c8b51409dd3a9d46e935f65e88578f436
 }q
 ;
 
 : study4thMsg
 q{
-<<<<<<< HEAD
 <h3><i> Rangkaian Listrik </i></h3>
 <h4> Rangkaian Listrik Paralel </h4>
 <ul style="list-style: '&#129046; ';">
@@ -140,14 +108,6 @@ q{
 <p> karena, Itotal = V/Rtotal </p>
 <p> Maka: </p>
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh4.googleusercontent.com/VgBkvBn3uOCqVQQJ0lBRm40wrCRrlaUZ6mWD1QmX3wMf_6r0pMvxcwyUW06jW10Fc_Q328do74Jezaen8Dw95v1hOv8mOeYDueIZ9Y6xwKBiadaRQBHXi2uPpfLcScnE1LG1EArY" width="85%" height"85">
-=======
-<h> Rangkaian listrik juga dapat memiliki hambatan di jalurnya yang dapat dinamakan rangkaian hambatan listrik. </h>
-<h> Rangkaian hambatan listrik terbagi menjadi 2 macam, yaitu rangkaian seri dan rangkaian paralel. </h>
-<h> Perbedaan kedua rangkaian tersebut dapat kita tinjau berdasarkan hubungan tegangan listrik (v) dengan kuat arus (I). </h>
-<h> Dalam rangkaian seri, kuat arus listrik di tiap titik sama, tetapi tegangan listriknya berbeda. </h>
-<h> Sedangkan dalam rangkaian paralel, tegangan listriknya sama di tiap titik, tetapi kuat arus listriknya berbeda.
-</h>
->>>>>>> 1309573c8b51409dd3a9d46e935f65e88578f436
 }q
 ;
 
