@@ -11,41 +11,36 @@ terra/chat
 terra/chat/app
 terra/chat/log
 
+
 include ./topics/learn.m
 include ./topics/quiz.m
 include ./topics/count.m
-include ./topics/main-button.m
-
-\ File Eksperimen
-include ./topics/likes.m
+include ./topics/main-chat.m
+include ./style.m
 
 
-: welcome
+: welcomeMsg
 q{
-<p>Selamat datang [Nama Bot] ! </p>
+<p>Hai sob, perkenalkan saya Delot, Dynamic Electricity Bot</p>
 <br>
-<p>Kami akan membantu kamu belajar tentang listrik Dinamis!</p>
+<p>Saya akan membantu kamu belajar tentang listrik Dinamis!</p>
 <p>Mulai dari arus listrik, hukum Kirchoff, hambatan, rangkaian hambatan, hukum ohm, rangkaian baterai, rangkaian seri, rangkaian paralel, dan hambatan pengganti.</p>
 <br>
-<p>Apa kamu siap untuk belajar mengenai listrik dinamis? Ya atau Tidak</p>
+<p>Apa kamu siap untuk belajar mengenai listrik dinamis dengan Delot?</p>
+<br>
 }q
 ;
+
+
 
 idk: I don't understand the question.
 
 : test 
   \ NOTE: Add your questions to test here.
-  "Are you an idiot?" answer . cr
-  "Are you silly?" answer . cr 
-  "Do you like bananas?" answer . cr
-  cr
-  "Do you like science?" answer . cr
-  "Are you good at chemistry?" answer . cr
-  "Do you love math?" answer . cr
-  
   "ya" answer . cr
   "Belajar" answer . cr
   "Mulai Belajar" answer . cr
+  
 ;
 
 : update-log 
@@ -56,10 +51,10 @@ idk: I don't understand the question.
 : publish 
   
   \ IMPORTANT - edit this part. It's the name of your bot.
-  publish: bot
+  publish: delot
   
   \ What your bot says at first. 
-  init: ${ welcome }
+  init: ${welcomeMsg} ${ "Siap" btn }
   
   \ ------ PROPERTIES OF THE CHATBOT USER INTERFACE --------
   
@@ -68,15 +63,15 @@ idk: I don't understand the question.
   \ background: https://live.staticflickr.com/4135/4915115384_ca7b1df603_b.jpg
   background: #212121
   \ Image of the avatar to use. 
-  avatar: https://cdn.wallpapersafari.com/94/23/WxiT2L.jpg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100
+  avatar: https://i.ibb.co/hCGZDwt/Logo.png
   \ Optional border on avatar
   \ avatar-border: solid #AAA 1px
   avatar-border: none
   
   \ Google font to import.
-  import-font: Open+Sans:wght@300
+  import-font: 'https://fonts.googleapis.com/css2?family=Montserrat&display=swap'
   \ Font to use in bubbles
-  bubble-font: 'Open Sans', sans-serif
+  bubble-font: 'Montserrat', sans-serif
   \ Font Color & Background of bot bubble
   bubble-bot-color: #333
   bubble-bot-background: #EEE
@@ -109,6 +104,7 @@ idk: I don't understand the question.
   thumbnail: https://images.pexels.com/photos/3394658/pexels-photo-3394658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100
   
 ;
+
 
 
 

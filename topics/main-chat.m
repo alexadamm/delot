@@ -6,8 +6,11 @@
 \
 \ A brief description of this program.
 \
+
+include ./style.m
+
 @: showMainMenu
-showMainMenu: ya kembali_ke_menu_utama
+showMainMenu: siap kembali_ke_menu_utama
 
 : main-message
 q{
@@ -17,10 +20,12 @@ Pilih salah satu
 
 : main-button ( "message" -- "s" )
 ctx{ msg }
-"Belajar" button "Kuis" button "Menghitung" button ctx{ learn quiz count }
+"Belajar" btn "Kuis" btn "Menghitung" btn ctx{ learn quiz count }
 q{
 <p>#{msg}</p><br>
- #{learn} #{quiz} #{count}
+<p>#{learn}</p>
+<p>#{quiz}</p>
+<p>#{count}</p>
 }q
 ;
 

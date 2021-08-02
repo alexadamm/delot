@@ -7,6 +7,8 @@
 \ A brief description of this program.
 \
 
+include ./topics
+
 : countMsg
 q{
 <h2>Coming soon!</h2>
@@ -15,7 +17,7 @@ q{
 
 : countMenu
 ctx{ msg }
-"Kembali Ke Menu Utama" button ctx{ previous }
+"Kembali Ke Menu Utama" btn ctx{ previous }
 q{
 <p align="center">#{msg}</p><br>
 #{previous}
