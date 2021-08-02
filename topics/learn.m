@@ -114,15 +114,16 @@ q{
 : tutorVidMsg
 q{
 <ul>
-<li> Pembukaan singkat by ruangguru: <a href="https://youtu.be/QYC-reVaKME"><b> Klik disini </b></a></li>
-<li> Playlist pembahasan materi listrik dinamis beserta latihan soal by Le GuruLes: <a href="https://youtu.be/QYC-reVaKME"><b> Klik disini <b></a></li>
+<li> Pembukaan singkat by ruangguru: <a href="https://youtu.be/QYC-reVaKME" style="text-decoration: none;"><b> Klik disini </b></a></li>
+<li> Playlist pembahasan materi listrik dinamis beserta latihan soal by Le GuruLes: <a href="https://www.youtube.com/playlist?list=PLovW1TU0Q47wqgLM9jtpGPra239cdtVob" style="text-decoration: none;"><b> Klik disini <b></a></li>
 </ul>
 }q
 ;
 
 : summaryMsg
 q{
-<p>Konten Ringkasan</p>
+<p> File Ringkasan Materi Listrik Dinamis  </p>
+<p><a href="https://drive.google.com/file/d/1eWqIm0JnyPxfskD25OilwDeGw0z6RuPs/view?usp=sharing" style="text-decoration: none;"><b> Klik Disini </b></a>
 }q
 ;
 
