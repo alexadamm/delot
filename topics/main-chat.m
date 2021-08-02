@@ -14,7 +14,7 @@ showMainMenu: siap kembali_ke_menu_utama
 
 : main-message
 q{
-Pilih salah satu
+<p>Pilih salah satu menu dibawah ini untuk mengenal listrik dinamis lebih dalam:</p>
 }q
 ;
 
@@ -28,15 +28,6 @@ q{
 <p>#{count}</p>
 }q
 ;
-
-\ : electric_introduction
-\ ctx{ msg }
-\ "Berikutnya" button "Kembali"  button ctx{ next previous }
-\ q{
-\ <p>#{msg}</p>
-\ #{previous} #{next}
-\ }q
-\ ;
 
 Q: $showMainMenu
 A: ${ main-message main-button }

@@ -16,7 +16,7 @@ showLearnMenu: belajar kembali_ke_menu_belajar
 
 : learnMenuMsg
 q{
-<h1>Menu Belajar</h1>
+<p>Mari belajar bersama Delot tentang listrik dinamis</p>
 }q
 ;
 
@@ -113,10 +113,8 @@ q{
 
 : tutorVidMsg
 q{
-<ul>
 <li> Pembukaan singkat by ruangguru: <a href="https://youtu.be/QYC-reVaKME" style="text-decoration: none;"><b> Klik disini </b></a></li>
 <li> Playlist pembahasan materi listrik dinamis beserta latihan soal by Le GuruLes: <a href="https://www.youtube.com/playlist?list=PLovW1TU0Q47wqgLM9jtpGPra239cdtVob" style="text-decoration: none;"><b> Klik disini <b></a></li>
-</ul>
 }q
 ;
 
