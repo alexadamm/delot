@@ -44,7 +44,7 @@ q{
 <p> R  : hambatan kawat (Ω)</p>
 <p> ρ  : hambatan jenis kawat (Ωm)</p>
 <p> ℓ   : panjang kawat (m)</p>
-<p> A  : luas penampang kawat (m^2)</p>
+<p> A  : luas penampang kawat (m<sup>2</sup>)</p>
 <br>
 <p align="center"> Selanjutnya: Listrik Dinamis </p>
 }q
@@ -90,7 +90,7 @@ q{
 <p> Hukum Kirchoff 1 berbunyi “Arus total yang masuk melalui suatu titik percabangan dalam suatu rangkaian listrik sama dengan arus total yang keluar dari titik percabangan tersebut.” </p>
 <p>ΣI masuk = ΣI keluar</p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rH5FNj7/Hukum-Kirchoff.png" alt="Hukum-Kirchoff" border="0"></a>
-<p> I1 + I2 = I3 + I4 + I5 </p>
+<p> I<sub>1</sub> + I<sub>2</sub> = I<sub>3</sub> + I<sub>4</sub> + I<sub>5</sub> </p>
 <br>
 <p align="center"> Selanjutnya: Rangkaian Hambatan Listrik</p>
 }q
@@ -103,8 +103,8 @@ q{
 <p> &#10143; Kuat arus listrik bernilai sama, tetapi tegangannya berbeda </p>
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/DrMQO56zcTtD2ONKm-ocDdJv5MRNGfmDqffFXGG96xU8IhmqUrV1dnj9_M-7ysJkD4SqO8RpFAjRg0xEn34YwDTUD8r8QIOlIh4AGvEfbSkz0TXK3g2PdG-4_sdWzBSOb3JvOA7b" width="60%" height="60% ">
 <p> Menurut hukum ohm: </p>
-<p> I1 = V/R1 dan I2 = V/R2 </p> 
-<p> Itotal = I1 + I2 = V/R1 + V/R2 = V(1/R1 + 1/R2) </p>
+<p> I<sub>1</sub> = V/R<sub>1</sub> dan I<sub>2</sub> = V/R<sub>2</sub> </p> 
+<p> Itotal = I<sub>1</sub> + I<sub>2</sub> = V/R<sub>1</sub> + V/R<sub>2</sub> = V(1/R<sub>1</sub> + 1/R<sub>2</sub>) </p>
 <p> karena, Itotal = V/Rtotal </p>
 <p> Maka: </p>
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh4.googleusercontent.com/VgBkvBn3uOCqVQQJ0lBRm40wrCRrlaUZ6mWD1QmX3wMf_6r0pMvxcwyUW06jW10Fc_Q328do74Jezaen8Dw95v1hOv8mOeYDueIZ9Y6xwKBiadaRQBHXi2uPpfLcScnE1LG1EArY" width="85%" height"85">
