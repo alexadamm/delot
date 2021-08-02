@@ -23,7 +23,7 @@ q{
 : startStudyMsg
 q{
 <h3><i> Hantaran Listrik </i></h2>
-<p> &#129046; Kemampuan penghantar untuk memindahkan muatan listrik.</p>
+<p> &#10143; Kemampuan penghantar untuk memindahkan muatan listrik.</p>
 <ul style="list-style-type:square;">
 <li> Isolator: Bahan yang sangat buruk untuk menghantarkan listrik karena di dalam bahan ini muatan listrik sulit mengalir. Contoh: karet, plastik, dan kertas. </li>
 <li> Konduktor: Bahan yang sangat baik digunakan untuk menghantarkan listrik. Contoh: Besi, tembaga, dan emas. </li>
@@ -54,7 +54,7 @@ q{
 q{
 <h2><i> Listrik Dinamis </i></h2>
 <h3><i> Definisi </i></h3>
-<p> &#129046; Listrik dinamis adalah listrik yang bisa bergerak. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik </p>
+<p> &#10143; Listrik dinamis adalah listrik yang bisa bergerak. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik </p>
 <p> Contohnya: Ada pada lampu, bel listrik, dan baterai. </p>
 <h3><i>Arus Listrik</i></h3>
 <ul>
@@ -79,11 +79,11 @@ q{
 q{
 <h3><i> Rangkaian Listrik </i></h3>
 <h4> Rangkaian Listrik Paralel </h4>
-<ul style="list-style: '&#129046; ';">
+<ul style="list-style: '&#10143; ';">
 <li> Yaitu rangkaian listrik yang memiliki percabangan kabel. Jika salah satu kabel terputus maka arus listrik akan tetap mengalir pada kabel lainnya yang masih terhubung dan beberapa lampu lainnya akan tetap menyala </li>
 </ul>
 <h4> Rangkaian Listrik Seri </h4>
-<ul style="list-style: '&#129046; ';">
+<ul style="list-style: '&#10143; ';">
 <li>Yaitu rangkaian listrik yang tidak memiliki percobaan kabel. Jika salah satu kabel terputus maka arus listrik pun akan terputus. </li>
 </ul>
 <h3><i> Hukum Kirchhoff </i></h3>
@@ -100,7 +100,7 @@ q{
 q{
 <h3><i> Rangkaian Hambatan Listrik </i></h3>
 <h4>Rangkaian Seri</h4>
-<p> &#129046; Kuat arus listrik bernilai sama, tetapi tegangannya berbeda </p>
+<p> &#10143; Kuat arus listrik bernilai sama, tetapi tegangannya berbeda </p>
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/DrMQO56zcTtD2ONKm-ocDdJv5MRNGfmDqffFXGG96xU8IhmqUrV1dnj9_M-7ysJkD4SqO8RpFAjRg0xEn34YwDTUD8r8QIOlIh4AGvEfbSkz0TXK3g2PdG-4_sdWzBSOb3JvOA7b" width="60%" height="60% ">
 <p> Menurut hukum ohm: </p>
 <p> I1 = V/R1 dan I2 = V/R2 </p> 
