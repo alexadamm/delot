@@ -17,7 +17,7 @@ display: block;
 width: auto;
 margin: 0.05px;
 border: none;
-background-color: #45A7D8;
+background-color: #ffb3b3;
 color: #FFFFFF;
 font-size: 15px;
 cursor: pointer;

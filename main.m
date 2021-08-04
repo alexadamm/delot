@@ -14,7 +14,7 @@ terra/chat/log
 
 include ./topics/learn.m
 include ./topics/quiz.m
-include ./topics/count.m
+include ./topics/calculator.m
 include ./topics/main-chat.m
 include ./style.m
 
@@ -61,7 +61,7 @@ idk: I don't understand the question.
   \ The background image. Should be tileable/repeatable. 
   \ Or you can use a HTML color (see https://www.w3schools.com/colors/colors_picker.asp)
   \ background: https://live.staticflickr.com/4135/4915115384_ca7b1df603_b.jpg
-  background: #212121
+  background: #ffcccc
   \ Image of the avatar to use. 
   avatar: https://i.ibb.co/hCGZDwt/Logo.png
   \ Optional border on avatar
@@ -69,46 +69,38 @@ idk: I don't understand the question.
   avatar-border: none
   
   \ Google font to import.
-  import-font: 'https://fonts.googleapis.com/css2?family=Montserrat&display=swap'
+  import-font: 'https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&display=swap'
   \ Font to use in bubbles
-  bubble-font: 'Montserrat', sans-serif
+  bubble-font: 'Hahmlet', serif;
   \ Font Color & Background of bot bubble
   bubble-bot-color: #333
   bubble-bot-background: #EEE
   \ Font Color & Background for user bubble
   bubble-user-color: white
-  bubble-user-background: #3366cc
+  bubble-user-background: #ffb3b3
   \ Other bubble properties
   \ bubble-border: solid blue 1px
-  bubble-border: none
+  bubble-border: solid #ffb3b3 2px
   bubble-radius: 16
-  bubble-font-size: 14
+  bubble-font-size: 16
   \ Max Width of bot bubble, in pixels
-  \ bot-bubble-width: 380
+  \ bot-bubble-width: 380f
   \ You can limit the number of responses displayed
-  \ limit: 3
+limit: 1
   
   \ Optional properties of the "send" button.
   \ Here's a sample from flaticon.com
   \ <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-  \ send-button-image-url: https://www.flaticon.com/svg/static/icons/svg/3652/3652532.svg
-  \ send-button-image-style: padding-left:10px;
-  send-button-image-url: https://autocaffe.io/chat/play.png
-  send-button-image-style: none
+send-button-image-url: https://i.ibb.co/3hGHfp7/telegram-xxl.png
+send-button-image-style: padding-left:5px;
+\   send-button-image-url: https://autocaffe.io/chat/play.png
+\   send-button-image-style: none
   
 
   \ ----- PROPERTIES OF THE URL LINK FOR SOCIAL MEDIA --------
   \ These will be visible when you share the link to your bot.
-  title: Simple Chatbot
-  description: My first chatbot.
-  thumbnail: https://images.pexels.com/photos/3394658/pexels-photo-3394658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100
+  title: Delot
+  description: Dynamic Electricity Bot
+  thumbnail: https://i.ibb.co/hCGZDwt/Logo.png
   
 ;
-
-
-
-
-
-
-
-

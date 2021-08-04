@@ -20,7 +20,7 @@ q{
 
 : main-button ( "message" -- "s" )
 ctx{ msg }
-"Belajar" btn "Kuis" btn "Menghitung" btn ctx{ learn quiz count }
+"Belajar" btn "Kuis" btn "Kalkulator" btn ctx{ learn quiz count }
 q{
 <p>#{msg}</p><br>
 <p>#{learn}</p>

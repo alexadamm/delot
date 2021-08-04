@@ -9,13 +9,13 @@
 
 include ./topics
 
-: countMsg
+: calMainMsg
 q{
 <h2>Coming soon!</h2>
 }q
 ;
 
-: countMenu
+: calMenu
 ctx{ msg }
 "Kembali Ke Menu Utama" btn ctx{ previous }
 q{
@@ -24,6 +24,6 @@ q{
 }q
 ;
 
-Q: Menghitung
-A: ${ countMsg countMenu }
+Q: Kalkulator
+A: ${ calMainMsg calMenu }
 --
