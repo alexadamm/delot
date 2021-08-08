@@ -22,56 +22,39 @@ q{
 
 : startStudyMsg
 q{
-<h3><i> Hantaran Listrik </i></h2>
-<p> &#10143; Kemampuan penghantar untuk memindahkan muatan listrik.</p>
-<ul style="list-style-type:square;">
-<li> Isolator: Bahan yang sangat buruk untuk menghantarkan listrik karena di dalam bahan ini muatan listrik sulit mengalir. Contoh: karet, plastik, dan kertas. </li>
-<li> Konduktor: Bahan yang sangat baik digunakan untuk menghantarkan listrik. Contoh: Besi, tembaga, dan emas. </li>
-<li> Semikonduktor: ahan yang bisa bersifat sebagai isolator pada suhu rendah dan bersifat konduktor pada suhu tinggi. Contoh: karbon, silikon, dan germanium. </li>
-</ul>
+<h2><i> Listrik Dinamis </i></h2>
+<h3><i> Definisi </i></h3>
+<p> &#10143; Listrik yang kita gunakan sehari-hari namanya adalah Listrik Dinamis. <i>Listrik Dinamis</i> artinya listrik yang bisa <b>bergerak</b> atau <b>mengalir</b>. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik.</p>
+<p> Contohnya pada lampu, bel listrik, dan baterai.</p>
+
+<p> Kalian penasaran nggak sih apa yang bisa menimbulkan aliran listrik? Yuk kita cari jawabannya sekarang!</p>
 <br>
-<p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Simbol dan Rumus Hambatan</p>
+<p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Kuat Arus Listrik</p>
 }q
 ;
 
 : study2ndMsg
 q{
-<h3><i> Hambatan Listrik</i></h3>
-<h4> Simbol </h4>
-<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/TB81Smc/Simbol-Hambatan.png" alt="Simbol-Hambatan" border="0"></a><br>
-<h4> Rumus </h4>
-<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/HVb5sQs/Untitled.png" alt="Untitled" border="0"></a>
-<p> R  : hambatan kawat (Ω)</p>
-<p> ρ  : hambatan jenis kawat (Ωm)</p>
-<p> ℓ   : panjang kawat (m)</p>
-<p> A  : luas penampang kawat (m<sup>2</sup>)</p>
+<h2><i> Kuat Arus Listrik </i></h2>
+<p>  &#10143; Aliran listrik ditimbulkan oleh muatan listrik yang bergerak di dalam suatu penghantar. <b>Muatan listrik</b> dalam jumlah tertentu yang menembus penampang dari suatu penghantar dalam satuan waktu tertentu disebut sebagai <b>kuat arus listrik.</b></p>
+<p> &#10143; Jadi, kuat arus listrik adalah <b>jumlah muatan listrik</b> yang mengalir dalam suatu penghantar <b>tiap satuan waktu</b>. Arus listrik ini bisa dihitung loh! Kuat arus listrik dapat dihitung dengan rumus:</p>
+
+<p> Dengan keterangan:</p>
+<p> I  : arus listrik (A)</p>
+<p> Q  : muatan listrik (C)</p>
+<p> t  : waktu (s)</p>
 <br>
-<p align="center" style="font-size:13px;font-style:italic;"> Selanjutnya: Listrik Dinamis </p>
+<p align="center" style="font-size:13px;font-style:italic;"> Kalian tau ngga sih kalau arus listrik dapat mengalir karena ada rangkaian listrik loh! Nah, sekarang mari kita bahas rangkaian listrik. </p>
 }q
 ;
 
 : study3rdMsg
 q{
-<h2><i> Listrik Dinamis </i></h2>
-<h3><i> Definisi </i></h3>
-<p> &#10143; Listrik dinamis adalah listrik yang bisa bergerak. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik </p>
-<p> Contohnya: Ada pada lampu, bel listrik, dan baterai. </p>
-<h3><i>Arus Listrik</i></h3>
-<ul>
-<li>Arus listrik mengalir dari potensial tinggi ke potensial rendah dan elektron mengalir dari kutub negatif ke kutub positif.</li>
-<li>Syarat terjadinya arus listrik:
-<ul style="list-style-type:circle;">
-<li>Adanya perbedaan potensial</li>
-<li>Rangkain listrik tertutup</li>
-</ul>
-</li>
-</ul>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NCrR1kF/Rumus-Arus-Listrik.png" alt="Rumus-Arus-Listrik" border="0"></a>
-<p> I  : arus listrik (A)</p>
-<p>Q  : muatan listrik (C)</p>
-<p> t  : waktu (s)</p>
+<h2><i> Rangkaian Listrik </i></h2>
+<p> &#10143; Rangkaian listrik merupakan rangkaian yang terhubung oleh  <b>alat-alat yang tersambung oleh listrik</b> dan <b>teraliri arus listrik</b>. Rangkaian listrik terbagi ke dalam beberapa model.</p>
+
 <br>
-<p align="center" style="font-size:13px;font-style:italic;"> Selanjutnya: Rangkaian Listrik dan Hukum Kirchhoff</p>
+<p align="center" style="font-size:13px;font-style:italic;"> Nah apa sih pengertian rangkaian paralel dan seri ini? Yuk simak penjelasan di bawah ini!</p>
 }q
 ;
 
@@ -86,28 +69,91 @@ q{
 <ul style="list-style: '&#10143; ';">
 <li>Yaitu rangkaian listrik yang tidak memiliki percobaan kabel. Jika salah satu kabel terputus maka arus listrik pun akan terputus. </li>
 </ul>
-<h3><i> Hukum Kirchhoff </i></h3>
-<p> Hukum Kirchoff 1 berbunyi “Arus total yang masuk melalui suatu titik percabangan dalam suatu rangkaian listrik sama dengan arus total yang keluar dari titik percabangan tersebut.” </p>
-<p>ΣI masuk = ΣI keluar</p>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rH5FNj7/Hukum-Kirchoff.png" alt="Hukum-Kirchoff" border="0"></a>
-<p> I<sub>1</sub> + I<sub>2</sub> = I<sub>3</sub> + I<sub>4</sub> + I<sub>5</sub> </p>
+<p> Ohiya teman-teman silahkan baca artikel berikut ini jika ingin tahu perbedaan rangkain paralel dan rangkaian seri lebih dalam lagi yaa ! https://www.ruangguru.com/blog/rangkaian-listrik </p>
 <br>
-<p align="center" style="font-size:13px;font-style:italic;"> Selanjutnya: Rangkaian Hambatan Listrik</p>
 }q
 ;
 
 : study5thMsg
 q{
+<h3><i> Hukum Kirchoff </i></h3>
+<p> &#10143; Di antara kamu pasti sudah pernah mendengar nama Kirchhoff dong, ya? Yup, Kirchhoff merupakan salah satu fisikawan yang berjasa dalam ilmu kelistrikan. Hukum Kirchhoff ditemukan oleh <b>Gustav Robert Kirchhoff</b> yang merupakan ahli fisika asal Jerman.</p>
+
+<p> Salah satu yang paling dikenal dari karyanya adalah hukum kircchoff I. Hukum ini merupakan hukum kekekalan muatan listrik yang menyatakan bahwa <b>jumlah muatan listrik</b> yang mengalir itu <b>tidak berubah</b>. Jadi, pada suatu percabangan, <i>laju muatan listrik yang menuju titik cabang sama besarnya dengan laju muatan yang meninggalkan titik cabang itu</i>.</p>
+}q
+;
+
+: study6thMsg
+q{
+<h3><i> Hukum Kirchoff </i></h3>
+<p> &#10143; Nah, di fisika, laju muatan listrik adalah <b>kuat arus listrik</b>. Oleh karena itu, bunyi Hukum I Kirchhoff lebih umum ditulis:  “Jumlah kuat arus listrik yang <b>masuk</b> ke suatu titik cabang akan sama dengan  jumlah kuat arus listrik yang <b>meninggalkan</b> titik itu.”</p>
+<br>
+<p> Hukum I Kirchhoff biasanya disebut sebagai Hukum Arus Kirchhoff atau <i>Kirchhoff's Current Law</i> (KCL).</p>
+
+<p> Jadi bisa disimpulkan bahwa, besar kuat arus total yang melewati titik percabangan I1 dan  I2 secara matematis dinyatakan sebagai <b>ΣI masuk = ΣI keluar</b> yang besarnya adalah <b>I1 + I2 = I3 + I4 + I5</b>.</p>
+}q
+;
+
+: study7thMsg
+q{
 <h3><i> Rangkaian Hambatan Listrik </i></h3>
-<h4>Rangkaian Seri</h4>
-<p> &#10143; Kuat arus listrik bernilai sama, tetapi tegangannya berbeda </p>
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/DrMQO56zcTtD2ONKm-ocDdJv5MRNGfmDqffFXGG96xU8IhmqUrV1dnj9_M-7ysJkD4SqO8RpFAjRg0xEn34YwDTUD8r8QIOlIh4AGvEfbSkz0TXK3g2PdG-4_sdWzBSOb3JvOA7b" width="60%" height="60% ">
-<p> Menurut hukum ohm: </p>
-<p> I<sub>1</sub> = V/R<sub>1</sub> dan I<sub>2</sub> = V/R<sub>2</sub> </p> 
-<p> I<sub>total</sub> = I<sub>1</sub> + I<sub>2</sub> = V/R<sub>1</sub> + V/R<sub>2</sub> = V(1/R<sub>1</sub> + 1/R<sub>2</sub>) </p>
-<p> karena, I<sub>total</sub> = V/R<sub>total</sub> </p>
-<p> Maka: </p>
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh4.googleusercontent.com/VgBkvBn3uOCqVQQJ0lBRm40wrCRrlaUZ6mWD1QmX3wMf_6r0pMvxcwyUW06jW10Fc_Q328do74Jezaen8Dw95v1hOv8mOeYDueIZ9Y6xwKBiadaRQBHXi2uPpfLcScnE1LG1EArY" width="85%" height"85">
+<p> Hambatan ini bertugas untuk <b>menghambat arus listrik</b>. Nah, kalau ngga ada penghambat maka arus listriknya akan konsleting atau terjadi hubungan arus pendek dan menimbulkan kebakaran.</p>
+<p> Hambatan listrik ini dipengaruhi oleh jenis benda hambatan, panjang benda, dan luas penampang benda.</P>
+<br>
+<p> Hambatan listrik ini bisa dihitung loh! Rumusnya adalah :</p>
+
+<p> Selain itu, ternyata suhu juga berpengaruh pada hambatan, karena benda bisa memuai jika <b>dipanaskan</b>, maka hambatannya <b>semakin besar</b>.</p>
+}q
+;
+
+: study8thMsg
+q{
+<h3><i> Rangkaian Hambatan Listrik </i></h3>
+<p> Hambatan listrik pada rangkaian listrik disusun menjadi dua macam, rangkaian hambatan seri dan paralel.</p>
+<p> Pada rangkaian seri, hambatan pengganti jauh <b>lebih sederhana</b> untuk mencarinya. Hambatan pengganti pada rangkaian paralel merupakan hasil <b>penjumlahan</b> dari seluruh rangkaian seri.</p>
+<br>
+<h4> Rangkaian Seri </h4>
+<p> Pada rangkaian seri = Kuat arus listrik bernilai <b>sama</b>, tetapi tegangannya <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
+
+<br>
+<h4> Rangkaian Paralel </h4>
+<p> Pada rangkaian paralel = Tegangan listrik bertegangan <b>sama</b>, tetapi kuat arus bernilai <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
+
+}q
+;
+
+: study9thMsg
+q{
+<h4><i>Daya Listrik</i></h4>
+<p> Daya listrik yang dihasilkan oleh perangkat elektronik dapat  diketahui dengan mengalikan beda potensial dan kuat arus listrik. Persamaannya dapat ditulis sebagai berikut.</p>
+<p> P = V × I</p>
+<p> Keterangan:</p>
+<p> P  = Daya listrik      (W)</p>
+<p> V  = Beda potensial    (V)</p>
+<p> I  = Kuat arus        (A)</p>
+<br>
+<h4><i>Perubahan Energi Listrik</i></h4>
+<ol>
+<li>Energi Listrik Diubah Menjadi Energi Cahaya</li>
+<li>Energi Listrik Diubah Menjadi Energi Gerak</li>
+<li>Energi Listrik Diubah Menjadi Energi Panas</li>
+<li>Energi Listrik Diubah Menjadi Energi Kimia</li>
+</ol>
+}q
+;
+
+: study10thMsg
+q{
+<h3><i> Sumber Energi Listrik </i></h3>
+<p> Energi listrik diperoleh dari perangkat yang dapat menghasilkan energi listrik. Sumber energi listrik diantaranya adalah:</p>
+<ol> 
+<li>Baterai</li>
+<p> Baterai merupakan elemen kering yang berisi zat kimia berbentuk padat. Baterai tersusun dari beberapa lapisan. Bagian luar baterai yang merupakan selimutnya adalah seng (kutub negatif). Bagian tengahnya merupakan batang arang (kutub positif) yang mengandung zat kimia berwujud serbuk berwarna hitam yang mengelilingi elektrolit.</p>
+<li>Akumulator</li>
+<p> Akumulator (Aki) disebut juga elemen basah karena elektrolitnya berupa zat cair (asam sulfat). Aki temasuk sel sekunder karena menghasilkan arus listrik dan juga dapat diisi arus listrik kembali.</p>
+<li>Dinamo</li>
+<p> Dinamo terdiri dari kumparan yang ditempatkan di tengah medan magnet, ketika ujung kepala dinamo berputar kumparan tersebut juga akan ikut berputar.</p>
+
 }q
 ;
 
@@ -274,3 +320,5 @@ Q: $showLearnMenu
 A: ${ learnMenuMsg learnMenu }
 K: $back learnMenuNext
 --
+
+
