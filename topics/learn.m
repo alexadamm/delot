@@ -27,7 +27,7 @@ q{
 <ul style="list-style-type:square;">
 <li> Isolator: Bahan yang sangat buruk untuk menghantarkan listrik karena di dalam bahan ini muatan listrik sulit mengalir. Contoh: karet, plastik, dan kertas. </li>
 <li> Konduktor: Bahan yang sangat baik digunakan untuk menghantarkan listrik. Contoh: Besi, tembaga, dan emas. </li>
-<li> Semikonduktor: Bahan yang bisa bersifat sebagai isolator pada suhu rendah dan bersifat konduktor pada suhu tinggi. Contoh: karbon, silikon, dan germanium. </li>
+<li> Semikonduktor: ahan yang bisa bersifat sebagai isolator pada suhu rendah dan bersifat konduktor pada suhu tinggi. Contoh: karbon, silikon, dan germanium. </li>
 </ul>
 <br>
 <p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Simbol dan Rumus Hambatan</p>
