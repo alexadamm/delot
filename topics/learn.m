@@ -120,7 +120,7 @@ q{
 <br>
 <h4> Rangkaian Paralel </h4>
 <p> Pada rangkaian paralel = Tegangan listrik bertegangan <b>sama</b>, tetapi kuat arus bernilai <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
-<img src="https://i.ibb.co/7jRhKLQ/paralel.gif" alt="paralel" border="0" />
+<img src="https://i.ibb.co/7jRhKLQ/paralel.gif" alt="paralel" border="0">
 }q
 ;
 
@@ -187,6 +187,8 @@ a:active {
   font-weight:bold;
 }
 </style>
+<img src="https://i.ibb.co/7WdCBBV/Videopembelajaran.gif" alt="Videopembelajaran" border="0">
+<p> Hi sahabat Delot! Berikut ini merupakan video-video pembelajaran listrik dinamis yang bisa kamu tonton biar kamu makin paham lagi!</p>
 <li> Pembukaan singkat by ruangguru:<a href="https://youtu.be/QYC-reVaKME" style="text-decoration:none;font-weight:bold;" target="blank">klik disini</a></li>
 <li> Playlist pembahasan materi listrik dinamis beserta latihan soal by Le GuruLes:<a href="https://www.youtube.com/playlist?list=PLovW1TU0Q47wqgLM9jtpGPra239cdtVob" target="blank">klik disini</a></li>
 }q
@@ -220,6 +222,8 @@ a:active {
   font-weight:bold;
 }
 </style>
+<img src="https://i.ibb.co/PmYwFkq/Rangkuman.gif" alt="Rangkuman" border="0">
+<p> Hi sahabat Delot! Berikut ini adalah file ringkasan materi Listrik Dinamis yang udah kamu pelajari tadi bareng Delot! File ini bisa kamu download dan kamu print yaa</p>
 <p> File Ringkasan Materi Listrik Dinamis<a href="https://drive.google.com/file/d/1eWqIm0JnyPxfskD25OilwDeGw0z6RuPs/view?usp=sharing" style="text-decoration:none;font-weight:bold;" target:"blank">klik disini</a></p>
 }q
 ;
