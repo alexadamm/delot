@@ -61,7 +61,7 @@ idk: I don't understand the question.
   \ The background image. Should be tileable/repeatable. 
   \ Or you can use a HTML color (see https://www.w3schools.com/colors/colors_picker.asp)
   \ background: https://live.staticflickr.com/4135/4915115384_ca7b1df603_b.jpg
-  background: #ffcccc
+  background: https://ibb.co/pXVTjYg
   \ Image of the avatar to use. 
   avatar: https://i.ibb.co/hCGZDwt/Logo.png
   \ Optional border on avatar
