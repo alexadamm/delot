@@ -26,7 +26,7 @@ q{
 <h3><i> Definisi </i></h3>
 <p> &#10143; Listrik yang kita gunakan sehari-hari namanya adalah Listrik Dinamis. <i>Listrik Dinamis</i> artinya listrik yang bisa <b>bergerak</b> atau <b>mengalir</b>. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik.</p>
 <p> Contohnya pada lampu, bel listrik, dan baterai.</p>
-
+<img src="https://i.ibb.co/GTMzpQ1/buble-1.gif" alt="buble-1" border="0">
 <p> Kalian penasaran nggak sih apa yang bisa menimbulkan aliran listrik? Yuk kita cari jawabannya sekarang!</p>
 <br>
 <p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Kuat Arus Listrik</p>
@@ -37,8 +37,9 @@ q{
 q{
 <h2><i> Kuat Arus Listrik </i></h2>
 <p>  &#10143; Aliran listrik ditimbulkan oleh muatan listrik yang bergerak di dalam suatu penghantar. <b>Muatan listrik</b> dalam jumlah tertentu yang menembus penampang dari suatu penghantar dalam satuan waktu tertentu disebut sebagai <b>kuat arus listrik.</b></p>
+<img src="https://i.ibb.co/QY4nJNK/buble-2a.gif" alt="buble-2a" border="0">
 <p> &#10143; Jadi, kuat arus listrik adalah <b>jumlah muatan listrik</b> yang mengalir dalam suatu penghantar <b>tiap satuan waktu</b>. Arus listrik ini bisa dihitung loh! Kuat arus listrik dapat dihitung dengan rumus:</p>
-
+<img src="https://i.ibb.co/t43SJ3G/buble-2b.gif" alt="buble-2b" border="0">
 <p> Dengan keterangan:</p>
 <p> I  : arus listrik (A)</p>
 <p> Q  : muatan listrik (C)</p>
@@ -52,7 +53,7 @@ q{
 q{
 <h2><i> Rangkaian Listrik </i></h2>
 <p> &#10143; Rangkaian listrik merupakan rangkaian yang terhubung oleh  <b>alat-alat yang tersambung oleh listrik</b> dan <b>teraliri arus listrik</b>. Rangkaian listrik terbagi ke dalam beberapa model.</p>
-
+<img src="https://i.ibb.co/khBkfM3/buble-3.gif" alt="buble-3" border="0">
 <br>
 <p align="center" style="font-size:13px;font-style:italic;"> Nah apa sih pengertian rangkaian paralel dan seri ini? Yuk simak penjelasan di bawah ini!</p>
 }q
@@ -61,6 +62,7 @@ q{
 : study4thMsg
 q{
 <h3><i> Rangkaian Listrik </i></h3>
+<img src="https://i.ibb.co/qxNJxqW/buble-4.gif" alt="buble-4" border="0">
 <h4> Rangkaian Listrik Paralel </h4>
 <ul style="list-style: '&#10143; ';">
 <li> Yaitu rangkaian listrik yang memiliki percabangan kabel. Jika salah satu kabel terputus maka arus listrik akan tetap mengalir pada kabel lainnya yang masih terhubung dan beberapa lampu lainnya akan tetap menyala </li>
@@ -78,7 +80,7 @@ q{
 q{
 <h3><i> Hukum Kirchoff </i></h3>
 <p> &#10143; Di antara kamu pasti sudah pernah mendengar nama Kirchhoff dong, ya? Yup, Kirchhoff merupakan salah satu fisikawan yang berjasa dalam ilmu kelistrikan. Hukum Kirchhoff ditemukan oleh <b>Gustav Robert Kirchhoff</b> yang merupakan ahli fisika asal Jerman.</p>
-
+<img src="https://i.ibb.co/3YVvHHT/buble-5.gif" alt="buble-5" border="0">
 <p> Salah satu yang paling dikenal dari karyanya adalah hukum kircchoff I. Hukum ini merupakan hukum kekekalan muatan listrik yang menyatakan bahwa <b>jumlah muatan listrik</b> yang mengalir itu <b>tidak berubah</b>. Jadi, pada suatu percabangan, <i>laju muatan listrik yang menuju titik cabang sama besarnya dengan laju muatan yang meninggalkan titik cabang itu</i>.</p>
 }q
 ;
@@ -89,7 +91,7 @@ q{
 <p> &#10143; Nah, di fisika, laju muatan listrik adalah <b>kuat arus listrik</b>. Oleh karena itu, bunyi Hukum I Kirchhoff lebih umum ditulis:  “Jumlah kuat arus listrik yang <b>masuk</b> ke suatu titik cabang akan sama dengan  jumlah kuat arus listrik yang <b>meninggalkan</b> titik itu.”</p>
 <br>
 <p> Hukum I Kirchhoff biasanya disebut sebagai Hukum Arus Kirchhoff atau <i>Kirchhoff's Current Law</i> (KCL).</p>
-
+<img src="https://i.ibb.co/pZwh1fv/buble-7.gif" alt="buble-7" border="0">
 <p> Jadi bisa disimpulkan bahwa, besar kuat arus total yang melewati titik percabangan I1 dan  I2 secara matematis dinyatakan sebagai <b>ΣI masuk = ΣI keluar</b> yang besarnya adalah <b>I1 + I2 = I3 + I4 + I5</b>.</p>
 }q
 ;
@@ -101,7 +103,7 @@ q{
 <p> Hambatan listrik ini dipengaruhi oleh jenis benda hambatan, panjang benda, dan luas penampang benda.</P>
 <br>
 <p> Hambatan listrik ini bisa dihitung loh! Rumusnya adalah :</p>
-
+<img src="https://i.ibb.co/9gRxpFy/buble-8.gif" alt="buble-8" border="0">
 <p> Selain itu, ternyata suhu juga berpengaruh pada hambatan, karena benda bisa memuai jika <b>dipanaskan</b>, maka hambatannya <b>semakin besar</b>.</p>
 }q
 ;
@@ -114,11 +116,11 @@ q{
 <br>
 <h4> Rangkaian Seri </h4>
 <p> Pada rangkaian seri = Kuat arus listrik bernilai <b>sama</b>, tetapi tegangannya <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
-
+<img src="https://i.ibb.co/vVtjntp/seri.gif" alt="seri" border="0">
 <br>
 <h4> Rangkaian Paralel </h4>
 <p> Pada rangkaian paralel = Tegangan listrik bertegangan <b>sama</b>, tetapi kuat arus bernilai <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
-
+<img src="https://i.ibb.co/7jRhKLQ/paralel.gif" alt="paralel" border="0" />
 }q
 ;
 
@@ -300,6 +302,51 @@ room: study4thRoom
 
 Q: Selanjutnya
 A: ${ study4thMsg studyMenu }
+K: $back study5thRoom
+--
+
+end-room
+
+room: study5thRoom
+
+Q: Selanjutnya
+A: ${ study5thMsg backMenu }
+K: $back study6thRoom
+--
+
+end-room
+
+room: study6thRoom
+
+Q: Selanjutnya
+A: ${ study6thMsg backMenu }
+K: $back study7thRoom
+--
+
+end-room
+
+room: study7thRoom
+
+Q: Selanjutnya
+A: ${ study7thMsg backMenu }
+K: $back study8thRoom
+--
+
+end-room
+
+room: study8thRoom
+
+Q: Selanjutnya
+A: ${ study8thMsg backMenu }
+K: $back study9thRoom
+--
+
+end-room
+
+room: study9thRoom
+
+Q: Selanjutnya
+A: ${ study9thMsg backMenu }
 K: $back studyLastRoom
 --
 
@@ -308,13 +355,11 @@ end-room
 room: studyLastRoom
 
 Q: Selanjutnya
-A: ${ study5thMsg backMenu }
-K: $back
+A: ${ study10thMsg backMenu }
+K: $back 
 --
 
 end-room
-
-
 
 Q: $showLearnMenu
 A: ${ learnMenuMsg learnMenu }
