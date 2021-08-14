@@ -11,7 +11,7 @@ include ./topics
 
 : quizMsg
 q{
-<p> Pilih salah satu </p>
+<p> Setelah belajar tentang listrik dinamis yuk latihan soal bareng DELOT untuk menguji seberapa paham kamu dengan materi listrik dinamis ini. </p>
 }q
 ;
 
