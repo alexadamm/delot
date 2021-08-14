@@ -12,22 +12,28 @@ include ./style.m
 @: showMainMenu
 showMainMenu: siap kembali_ke_menu_utama
 
+
+
+
 : main-message
 q{
-<p>Pilih salah satu menu dibawah ini untuk mengenal listrik dinamis lebih dalam:</p>
+<img src="https://lh4.googleusercontent.com/BZEcOLpoKkplY0FuAqqtU4pgKt0AWSahUpkILpYqbSWnoDaB8STILhAaC74pyy2F0r2QQjC2TWYEHoarwNPWUAET3KfdQMwUMEZtLiU0CCKjVYL37q1rnCwyMTnOOFtiKeUQ4S2k" width="95%" length="95" />
+<p style="text-align:justify;"> Pilih salah satu menu di bawah ini untuk mengenal listrik dinamis lebih dalam! </p>
 }q
 ;
 
+
 : main-button ( "message" -- "s" )
 ctx{ msg }
-"Belajar" btn "Kuis" btn "Kalkulator" btn ctx{ learn quiz count }
+"Belajar 📚" btn "Kuis 📝" btn "Kalkulator 📱" btn ctx{ learn quiz count }
 q{
-<p>#{msg}</p><br>
+#{msg}<br>
 <p>#{learn}</p>
 <p>#{quiz}</p>
 <p>#{count}</p>
 }q
 ;
+
 
 Q: $showMainMenu
 A: ${ main-message main-button }

@@ -11,22 +11,19 @@ terra/chat
 terra/chat/app
 terra/chat/log
 
-
+include ./topics/main-chat.m
 include ./topics/learn.m
 include ./topics/quiz.m
 include ./topics/calculator.m
-include ./topics/main-chat.m
 include ./style.m
 
 
 : welcomeMsg
 q{
-<p>Hai sob, perkenalkan saya Delot, Dynamic Electricity Bot</p>
-<br>
-<p>Saya akan membantu kamu belajar tentang listrik Dinamis!</p>
-<p>Mulai dari arus listrik, hukum Kirchoff, hambatan, rangkaian hambatan, hukum ohm, rangkaian baterai, rangkaian seri, rangkaian paralel, dan hambatan pengganti.</p>
-<br>
-<p>Apa kamu siap untuk belajar mengenai listrik dinamis dengan Delot?</p>
+<p> Hai sob, perkenalkan aku<b style="font-style:italic;">Delot</b>,<i>Dynamic Electricity Bot</i></p>
+<img src="https://lh4.googleusercontent.com/gk-TB1Vu42MhfXHGVxRQy9vRbkF-5aBFaCu2oRgU9a9uioUEPfc58A2Of5mTPMlRQfLc4zdIaZclLgMd2W0g3H3qC7qNTI5yMHZ6so844E6PEg7h49BqdoU3kiEZ8lp7mo7bRS6y" width="95%" length="95%" />
+<p> Disini aku mau bantuin kamu belajar tentang Listrik Dinamis!</p>
+<p> Apa kamu siap belajar bareng<b style="font-style:italic;">Delot</b>?</p>
 <br>
 }q
 ;
@@ -37,9 +34,7 @@ idk: I don't understand the question.
 
 : test 
   \ NOTE: Add your questions to test here.
-  "ya" answer . cr
-  "Belajar" answer . cr
-  "Mulai Belajar" answer . cr
+  "siap" answer . cr
   
 ;
 
@@ -54,16 +49,17 @@ idk: I don't understand the question.
   publish: delot
   
   \ What your bot says at first. 
-  init: ${welcomeMsg} ${ "Siap" btn }
+  init: ${welcomeMsg} ${ "Siap ✊" btn }
   
   \ ------ PROPERTIES OF THE CHATBOT USER INTERFACE --------
   
   \ The background image. Should be tileable/repeatable. 
   \ Or you can use a HTML color (see https://www.w3schools.com/colors/colors_picker.asp)
-  \ background: https://live.staticflickr.com/4135/4915115384_ca7b1df603_b.jpg
-  background: #ffcccc
-  \ Image of the avatar to use. 
-  avatar: https://i.ibb.co/hCGZDwt/Logo.png
+background: https://lh3.googleusercontent.com/uC42hFUrkJRzVDn_8QFSKphEZfaGjKbWCuxUb6ZsO_USJBf7cUPbQuEvinKhzBM5SpVuEVIshTyPuHoqIRAt2S_jjQHG2riESxdHXa6MlKTZRfjt79JKahPU4z1tYXEb1Pem8cpz
+\   background: https://lh6.googleusercontent.com/4Ay4697AYuATK82QxL5k2XTiLlqvjBFOZEzkQDqTtx6lu6kxMf2xL50DSYzkMjq2zq6MGQ97NY9W7T3Nu7alQT4egL1GWunIvFYFWUATUijLp2vC71dZ35H_ZRuo1qu4hTXxz6AA
+  \ Image of the avatar to use.
+\   avatar: https://i.ibb.co/hCGZDwt/Logo.png
+  avatar: https://lh6.googleusercontent.com/RMMP-214RetHaX5JTPlVN8-yPOjgq7ejvbRVBkXuY7uKhRheSDOYF-NsSB1zVwE32pYKBYEDzPxc84eUwVxThTTvlr_PPb3di7QHYjZ210qDQ8BjHu7QcBl-M2_S3x34Gm__zhmd
   \ Optional border on avatar
   \ avatar-border: solid #AAA 1px
   avatar-border: none
@@ -84,7 +80,7 @@ idk: I don't understand the question.
   bubble-radius: 16
   bubble-font-size: 16
   \ Max Width of bot bubble, in pixels
-  \ bot-bubble-width: 380f
+bot-bubble-width: 280
   \ You can limit the number of responses displayed
 limit: 1
   
@@ -101,6 +97,22 @@ send-button-image-style: padding-left:5px;
   \ These will be visible when you share the link to your bot.
   title: Delot
   description: Dynamic Electricity Bot
-  thumbnail: https://i.ibb.co/hCGZDwt/Logo.png
+  thumbnail: https://lh3.googleusercontent.com/Rwalo5-vd6vGjdH0irCsqRQkXSi-pefr0lCxeoA_X_Ovk75JpEWsTTfPfpbRiFWMKCN91HYeijEIXZYx5VPaAk-q9suHWfg-WXziW3bxaSwL9RbqhBm1FbGS3jWM2jvk5HMYghW-
   
 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

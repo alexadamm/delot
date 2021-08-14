@@ -25,3 +25,23 @@ line-height: 1;
 text-align: center;
 }q (button)
 ;
+
+: wbtn
+q{
+padding:10px;
+font-family:Poppins, sans-serif;
+font-size:14px;
+display: block;
+width: auto;
+margin: 0.05px;
+border: none;
+background-color: #FFFFFF;
+color: #ffb3b3;
+font-size: 15px;
+cursor: pointer;
+line-height: 1;
+text-align: center;
+border: 1px solid #ffb3b3;
+}q (button)
+;
+

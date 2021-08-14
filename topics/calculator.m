@@ -11,19 +11,26 @@ include ./topics
 
 : calMainMsg
 q{
-<h2>Coming soon!</h2>
+<p> Pilih apa yang ingin anda hitung </p>
 }q
 ;
 
+
 : calMenu
 ctx{ msg }
-"Kembali Ke Menu Utama" btn ctx{ previous }
+"Kuat Arus" btn "Hambatan" btn "Energi Listrik" btn "Daya Listrik" btn "Kembali Ke Menu Utama" wbtn ctx{ btn1 btn2 btn3 btn4 previous }
 q{
 <p align="center">#{msg}</p><br>
-#{previous}
+<p>#{btn1}</p>
+<p>#{btn2}</p>
+<p>#{btn3}</p>
+<p>#{btn4}</p>
+<p>#{previous}</p>
 }q
 ;
 
 Q: Kalkulator
 A: ${ calMainMsg calMenu }
 --
+
+

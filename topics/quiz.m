@@ -11,19 +11,25 @@ include ./topics
 
 : quizMsg
 q{
-<h2>Coming soon!</h2>
+<p> Pilih salah satu </p>
 }q
 ;
 
 : quizMenu
 ctx{ msg }
-"Kembali Ke Menu Utama" btn ctx{ previous }
+"No 1" btn "No 2" btn "No3" btn "No4" btn "No5" btn "Kembali Ke Menu Utama" wbtn ctx{ btn1 btn2 btn3 btn4 btn5 previous }
 q{
-<p align="center">#{msg}</p><br>
-#{previous}
+#{msg}
+<p>#{btn1}</p>
+<p>#{btn2}</p>
+<p>#{btn3}</p>
+<p>#{btn4}</p>
+<p>#{btn5}</p>
+<p>#{previous}</p>
 }q
 ;
 
 Q: Kuis
 A: ${ quizMsg quizMenu }
 --
+

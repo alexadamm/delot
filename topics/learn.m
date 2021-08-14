@@ -8,181 +8,70 @@
 \
 
 include ./style.m
+include ./topics/studyMessages.m
+include ./topics/summaryNVidMessages.m
+
 
 @: showLearnMenu
-showLearnMenu: belajar kembali_ke_menu_belajar
+showLearnMenu: ayo_belajar kembali_ke_menu_belajar
 
 \ Messages
 
 : learnMenuMsg
 q{
-<p>Mari belajar bersama Delot tentang listrik dinamis</p>
+<img src="https://lh4.googleusercontent.com/HpXhcap6kbE9zJF4qtW_JF-Rgs1YFeNWTz8JSbRVgFIAp5kdURFcb8B8j7jJm-gfvsazGMqtpdxtoUUAnzi5CYr8ikRUi2AAWOEeio-JFiwdRW0V1kj_ScpWtt_21MbgEsSIUGWC" width="95%" length="95%" />
+<p style="text-align:justify;">Delot akan menemanimu belajar mengenai listrik dinamis.
+Silahkan pilih salah satu opsi dibawah ini dimulai dari 'mulai belajar' ya.</p>
 }q
 ;
 
-: startStudyMsg
+: learn1stMsg
 q{
-<h3><i> Hantaran Listrik </i></h2>
-<p> &#10143; Kemampuan penghantar untuk memindahkan muatan listrik.</p>
-<ul style="list-style-type:square;">
-<li> Isolator: Bahan yang sangat buruk untuk menghantarkan listrik karena di dalam bahan ini muatan listrik sulit mengalir. Contoh: karet, plastik, dan kertas. </li>
-<li> Konduktor: Bahan yang sangat baik digunakan untuk menghantarkan listrik. Contoh: Besi, tembaga, dan emas. </li>
-<li> Semikonduktor: Bahan yang bisa bersifat sebagai isolator pada suhu rendah dan bersifat konduktor pada suhu tinggi. Contoh: karbon, silikon, dan germanium. </li>
-</ul>
+<p style="text-align:justify;">Kalian tau ga? 🤔</p>
+<p style="text-align:justify;">Penggunaan baterai merupakan salah satu
+aplikasi dari listrik dinamis loh. Keberadaannya sama seperti listrik
+statis yang ada dimana-mana. Contohnya yaitu penggunaan baterai di mobil-mobilan. Ketika saklar
+<i> ON dinyalakan,</i> maka
+<i> kedua ujung batu baterai</i> yang
+<u> mengandung muatan listrik</u> akan
+<u>terhubung</u> dengan motor listrik yang ada pada 
+mobil-mobilan tersebut. Jadi, mobil-mobilannya bisa jalan deh!</p>
+<img src="https://lh3.googleusercontent.com/i6eQv3NijMBsyMhKacr714_ZYyy_RfrPR13NrxOpu7YTtZT5PAhX2YTgXTXBMM8sb0jdOzMXUaWBwAKTkUz8HvjGR6l3NzkyMiI8jTOCKiLd6gzWK81SjNvG2FuV5_UL-i6RK4NB" width="95%" length="95%" />
+<p style="text-align:justify;">Sekarang, di kehidupan sehari-hari kita nggak mungkin kalau nggak menggunakan listrik kan. Nah makanya materi ini banget buat kamu pelajari karena sangat berkaitan erat dengan kehidupan kita sehari-hari!</p>
 <br>
-<p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Simbol dan Rumus Hambatan</p>
 }q
 ;
 
-: study2ndMsg
+: learn2ndMsg
 q{
-<h3><i> Hambatan Listrik</i></h3>
-<h4> Simbol </h4>
-<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/TB81Smc/Simbol-Hambatan.png" alt="Simbol-Hambatan" border="0"></a><br>
-<h4> Rumus </h4>
-<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/HVb5sQs/Untitled.png" alt="Untitled" border="0"></a>
-<p> R  : hambatan kawat (Ω)</p>
-<p> ρ  : hambatan jenis kawat (Ωm)</p>
-<p> ℓ   : panjang kawat (m)</p>
-<p> A  : luas penampang kawat (m<sup>2</sup>)</p>
+<p style="text-align:justify;">Selain mainan mobil-mobilan, Penggunaan listrik dinamis
+itu beragam sekali. Kamu bisa lihat pada komputer, bor listrik, kulkas, tv, barang-barang
+peralatan rumah tangga yang lain, dan senter. Lampu senter bisa menyala dan
+bersinar karena ada aliran elektron di dalamnya.</p>
+<p style="text-align:justify;">Sekarang, di kehidupan sehari-hari kita
+nggak mungkin kalau nggak menggunakan listrik kan. Nah makanya materi ini
+banget buat kamu pelajari karena sangat berkaitan erat dengan kehidupan kita sehari-hari!</p>
+<p style="text-align:justify;">Nah makanya materi ini penting banget buat
+kamu pelajari karena sangat berkaitan erat dengan kehidupan kita sehari-hari!</p>
 <br>
-<p align="center" style="font-size:13px;font-style:italic;"> Selanjutnya: Listrik Dinamis </p>
-}q
-;
-
-: study3rdMsg
-q{
-<h2><i> Listrik Dinamis </i></h2>
-<h3><i> Definisi </i></h3>
-<p> &#10143; Listrik dinamis adalah listrik yang bisa bergerak. listrik dinamis terjadi karena ada arus listrik searah dan arus listrik bolak-balik </p>
-<p> Contohnya: Ada pada lampu, bel listrik, dan baterai. </p>
-<h3><i>Arus Listrik</i></h3>
-<ul>
-<li>Arus listrik mengalir dari potensial tinggi ke potensial rendah dan elektron mengalir dari kutub negatif ke kutub positif.</li>
-<li>Syarat terjadinya arus listrik:
-<ul style="list-style-type:circle;">
-<li>Adanya perbedaan potensial</li>
-<li>Rangkain listrik tertutup</li>
-</ul>
-</li>
-</ul>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NCrR1kF/Rumus-Arus-Listrik.png" alt="Rumus-Arus-Listrik" border="0"></a>
-<p> I  : arus listrik (A)</p>
-<p>Q  : muatan listrik (C)</p>
-<p> t  : waktu (s)</p>
-<br>
-<p align="center" style="font-size:13px;font-style:italic;"> Selanjutnya: Rangkaian Listrik dan Hukum Kirchhoff</p>
-}q
-;
-
-: study4thMsg
-q{
-<h3><i> Rangkaian Listrik </i></h3>
-<h4> Rangkaian Listrik Paralel </h4>
-<ul style="list-style: '&#10143; ';">
-<li> Yaitu rangkaian listrik yang memiliki percabangan kabel. Jika salah satu kabel terputus maka arus listrik akan tetap mengalir pada kabel lainnya yang masih terhubung dan beberapa lampu lainnya akan tetap menyala </li>
-</ul>
-<h4> Rangkaian Listrik Seri </h4>
-<ul style="list-style: '&#10143; ';">
-<li>Yaitu rangkaian listrik yang tidak memiliki percobaan kabel. Jika salah satu kabel terputus maka arus listrik pun akan terputus. </li>
-</ul>
-<h3><i> Hukum Kirchhoff </i></h3>
-<p> Hukum Kirchoff 1 berbunyi “Arus total yang masuk melalui suatu titik percabangan dalam suatu rangkaian listrik sama dengan arus total yang keluar dari titik percabangan tersebut.” </p>
-<p>ΣI masuk = ΣI keluar</p>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rH5FNj7/Hukum-Kirchoff.png" alt="Hukum-Kirchoff" border="0"></a>
-<p> I<sub>1</sub> + I<sub>2</sub> = I<sub>3</sub> + I<sub>4</sub> + I<sub>5</sub> </p>
-<br>
-<p align="center" style="font-size:13px;font-style:italic;"> Selanjutnya: Rangkaian Hambatan Listrik</p>
-}q
-;
-
-: study5thMsg
-q{
-<h3><i> Rangkaian Hambatan Listrik </i></h3>
-<h4>Rangkaian Seri</h4>
-<p> &#10143; Kuat arus listrik bernilai sama, tetapi tegangannya berbeda </p>
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/DrMQO56zcTtD2ONKm-ocDdJv5MRNGfmDqffFXGG96xU8IhmqUrV1dnj9_M-7ysJkD4SqO8RpFAjRg0xEn34YwDTUD8r8QIOlIh4AGvEfbSkz0TXK3g2PdG-4_sdWzBSOb3JvOA7b" width="60%" height="60% ">
-<p> Menurut hukum ohm: </p>
-<p> I<sub>1</sub> = V/R<sub>1</sub> dan I<sub>2</sub> = V/R<sub>2</sub> </p> 
-<p> I<sub>total</sub> = I<sub>1</sub> + I<sub>2</sub> = V/R<sub>1</sub> + V/R<sub>2</sub> = V(1/R<sub>1</sub> + 1/R<sub>2</sub>) </p>
-<p> karena, I<sub>total</sub> = V/R<sub>total</sub> </p>
-<p> Maka: </p>
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh4.googleusercontent.com/VgBkvBn3uOCqVQQJ0lBRm40wrCRrlaUZ6mWD1QmX3wMf_6r0pMvxcwyUW06jW10Fc_Q328do74Jezaen8Dw95v1hOv8mOeYDueIZ9Y6xwKBiadaRQBHXi2uPpfLcScnE1LG1EArY" width="85%" height"85">
-}q
-;
-
-: tutorVidMsg
-q{
-<style>
-a:link {
-  color: #ffb3b3;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:visited {
-  color: #ffb3b3;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:hover {
-  color: #ffcccc;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:active {
-  color: #ffcccc;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-</style>
-<li> Pembukaan singkat by ruangguru:<a href="https://youtu.be/QYC-reVaKME" style="text-decoration:none;font-weight:bold;" target="blank">klik disini</a></li>
-<li> Playlist pembahasan materi listrik dinamis beserta latihan soal by Le GuruLes:<a href="https://www.youtube.com/playlist?list=PLovW1TU0Q47wqgLM9jtpGPra239cdtVob" target="blank">klik disini</a></li>
-}q
-;
-
-: summaryMsg
-q{
-<style>
-a:link {
-  color: #ffb3b3;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:visited {
-  color: #ffb3b3;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:hover {
-  color: #ffcccc;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:active {
-  color: #ffcccc;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-</style>
-<p> File Ringkasan Materi Listrik Dinamis<a href="https://drive.google.com/file/d/1eWqIm0JnyPxfskD25OilwDeGw0z6RuPs/view?usp=sharing" style="text-decoration:none;font-weight:bold;" target:"blank">klik disini</a></p>
 }q
 ;
 
 \ Menu templates
 
+: bb
+q{
+</div><br>
+<img class="pic" src="https://lh6.googleusercontent.com/RMMP-214RetHaX5JTPlVN8-yPOjgq7ejvbRVBkXuY7uKhRheSDOYF-NsSB1zVwE32pYKBYEDzPxc84eUwVxThTTvlr_PPb3di7QHYjZ210qDQ8BjHu7QcBl-M2_S3x34Gm__zhmd" style="vertical-align:middle;border:none;">
+<div style="padding:10px;border-radius:16px;display:inline-block;text-align:left;vertical-align:middle;border:solid #ffb3b3 2px;color:#333;font-family:Hahmlet, serif;;font-size:16px;background:#EEE;word-wrap:break-word;min-width:40px;max-width:280px;">
+}q
+;
+
 : learnMenu
 ctx{ msg }
-"Mulai Belajar" btn "Video Pembelajaran" btn "Ringkasan" btn "Kembali Ke Menu Utama" btn ctx{ startStudy tutorVid summary mainMenu }
+"Mulai Belajar ✏️" btn "Video Pembelajaran 🎥" btn "Ringkasan 📑" btn "Kembali Ke Menu Utama 🔙" wbtn ctx{ startStudy tutorVid summary mainMenu }
 q{
-<p>#{msg}</p><br>
+#{msg}<br>
 <p>#{startStudy}</p>
 <p>#{summary}</p>
 <p>#{tutorVid}</p>
@@ -192,26 +81,24 @@ q{
 
 : studyMenu
 ctx{ msg }
-"Selanjutnya" btn ctx{ next }
+"Selanjutnya ⏩" btn "Kembali Ke Menu Belajar 🔙" wbtn ctx{ next previous }
 q{
-<p>#{msg}</p>
-#{next}
+#{msg}
+<p>#{next}</p>
+<p>#{previous}</p>
 }q
 ;
 
 : backMenu
 ctx{ msg }
-"Kembali Ke Menu Belajar" btn ctx{ previous }
+"Kembali Ke Menu Belajar 🔙" wbtn ctx{ previous }
 q{
 <p>#{msg}</p><br>
 #{previous}
 }q
 ;
 
-
 \ rooms
-
-
 
 room: learnMenuNext
 
@@ -221,12 +108,12 @@ K: $back study2ndRoom
 --
 
 Q: Video Pembelajaran
-A: ${ tutorVidMsg backMenu }
+A: ${tutorVidMsg1} ${bb} ${tutorVidMsg2} ${bb} ${ tutorVidMsg3 backMenu }
 K: $back
 --
 
 Q: Ringkasan
-A: ${ summaryMsg backMenu }
+A: ${summaryMsg} ${bb} ${ summaryMsg2 backMenu }
 K: $back
 --
 
@@ -235,7 +122,7 @@ end-room
 room: study2ndRoom
 
 Q: Selanjutnya
-A: ${ study2ndMsg studyMenu }
+A: ${study2ndMsg} ${bb} ${ study2ndMsg2 studyMenu }
 K: $back study3rdRoom
 --
 
@@ -253,7 +140,88 @@ end-room
 room: study4thRoom
 
 Q: Selanjutnya
-A: ${ study4thMsg studyMenu }
+A: ${study4thMsg} ${bb} ${ study4thMsg2 studyMenu }
+K: $back study5thRoom
+--
+
+end-room
+
+room: study5thRoom
+
+Q: Selanjutnya
+A: ${study5thMsg} ${bb} ${ study5thMsg2 studyMenu }
+K: $back study6thRoom
+--
+
+end-room
+
+room: study6thRoom
+
+Q: Selanjutnya
+A: ${study6thMsg} ${bb} ${ study6thMsg2 studyMenu }
+K: $back study7thRoom
+--
+
+end-room
+
+room: study7thRoom
+
+Q: Selanjutnya
+A: ${study7thMsg} ${bb} ${ study7thMsg2 studyMenu }
+K: $back study8thRoom
+--
+
+end-room
+
+room: study8thRoom
+
+Q: Selanjutnya
+A: ${study8thMsg} ${bb} ${ study8thMsg2 studyMenu }
+K: $back study9thRoom
+--
+
+end-room
+
+room: study9thRoom
+
+Q: Selanjutnya
+A: ${study9thMsg studyMenu }
+K: $back study10thRoom
+--
+
+end-room
+
+room: study10thRoom
+
+Q: Selanjutnya
+A: ${study10thMsg} ${bb} ${ study10thMsg2 studyMenu }
+K: $back study11thRoom
+--
+
+end-room
+
+room: study11thRoom
+
+Q: Selanjutnya
+A: ${study11thMsg} ${bb} ${ study11thMsg2 studyMenu }
+K: $back study12thRoom
+--
+
+end-room
+
+room: study12thRoom
+
+Q: Selanjutnya
+A: ${study12thMsg} ${bb} ${ study12thMsg2 studyMenu }
+K: $back study13thRoom
+--
+
+end-room
+
+room: study13thRoom
+
+Q: Selanjutnya
+A: ${ study13thMsg studyMenu }
 K: $back studyLastRoom
 --
 
@@ -262,7 +230,7 @@ end-room
 room: studyLastRoom
 
 Q: Selanjutnya
-A: ${ study5thMsg backMenu }
+A: ${ study14thMsg backMenu }
 K: $back
 --
 
@@ -270,7 +238,17 @@ end-room
 
 
 
+Q: Belajar
+A: ${learn1stMsg} ${ "Ayo Belajar 📖" btn }
+--
+
 Q: $showLearnMenu
 A: ${ learnMenuMsg learnMenu }
 K: $back learnMenuNext
 --
+
+
+
+
+
+
