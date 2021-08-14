@@ -227,7 +227,7 @@ K: $back studyLastRoom
 
 end-room
 
-room: studyLastRoom
+room: study5thRoom
 
 Q: Selanjutnya
 A: ${ study14thMsg backMenu }
@@ -236,7 +236,50 @@ K: $back
 
 end-room
 
+room: study6thRoom
 
+Q: Selanjutnya
+A: ${ study6thMsg backMenu }
+K: $back study7thRoom
+--
+
+end-room
+
+room: study7thRoom
+
+Q: Selanjutnya
+A: ${ study7thMsg backMenu }
+K: $back study8thRoom
+--
+
+end-room
+
+room: study8thRoom
+
+Q: Selanjutnya
+A: ${ study8thMsg backMenu }
+K: $back study9thRoom
+--
+
+end-room
+
+room: study9thRoom
+
+Q: Selanjutnya
+A: ${ study9thMsg backMenu }
+K: $back studyLastRoom
+--
+
+end-room
+
+room: studyLastRoom
+
+Q: Selanjutnya
+A: ${ study10thMsg backMenu }
+K: $back 
+--
+
+end-room
 
 Q: Belajar
 A: ${learn1stMsg} ${ "Ayo Belajar 📖" btn }

@@ -29,7 +29,44 @@ q{
 }q
 ;
 
+
 Q: Kuis
-A: ${ quizMsg quizMenu }
+A: ${ quizMsg startquizMenu }
+--
+
+end-room
+
+room: study2ndRoom
+
+Q: Selanjutnya
+A: ${ study2ndMsg studyMenu }
+K: $back study3rdRoom
+--
+
+end-room
+
+room: study3rdRoom
+
+Q: Selanjutnya
+A: ${ study3rdMsg studyMenu }
+K: $back study4thRoom
+--
+
+end-room
+
+room: study4thRoom
+
+Q: Selanjutnya
+A: ${ study4thMsg studyMenu }
+K: $back studyLastRoom
+--
+
+end-room
+
+room: studyLastRoom
+
+Q: Selanjutnya
+A: ${ study5thMsg backMenu }
+K: $back
 --
 
