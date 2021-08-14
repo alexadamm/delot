@@ -11,9 +11,13 @@ include ./topics
 
 : quizMsg
 q{
+
 <p> Setelah belajar tentang listrik dinamis yuk latihan soal bareng DELOT untuk menguji seberapa paham kamu dengan materi listrik dinamis ini. </p>
+<p> Sudah siap? </p>
 }q
 ;
+
+
 
 : quizMenu
 ctx{ msg }
