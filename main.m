@@ -80,7 +80,7 @@ background: https://lh3.googleusercontent.com/uC42hFUrkJRzVDn_8QFSKphEZfaGjKbWCu
   bubble-radius: 16
   bubble-font-size: 16
   \ Max Width of bot bubble, in pixels
-bot-bubble-width: 280
+bot-bubble-width: 250
   \ You can limit the number of responses displayed
 limit: 1
   
@@ -100,19 +100,3 @@ send-button-image-style: padding-left:5px;
   thumbnail: https://lh3.googleusercontent.com/Rwalo5-vd6vGjdH0irCsqRQkXSi-pefr0lCxeoA_X_Ovk75JpEWsTTfPfpbRiFWMKCN91HYeijEIXZYx5VPaAk-q9suHWfg-WXziW3bxaSwL9RbqhBm1FbGS3jWM2jvk5HMYghW-
   
 ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -224,6 +224,27 @@ q{
 }q
 ;
 
+\ : study9thMsg2
+\ q{
+\ <h3 style="font-style:italic;">Daya Listrik</h3>
+\ <p> Daya listrik yang dihasilkan oleh perangkat elektronik dapat  diketahui dengan mengalikan beda potensial dan kuat arus listrik. Persamaannya dapat ditulis sebagai berikut.</p>
+\ <p> P = V × I</p>
+\ <p> Keterangan:</p>
+\ <p> P  = Daya listrik      (W)</p>
+\ <p> V  = Beda potensial    (V)</p>
+\ <p> I  = Kuat arus        (A)</p>
+\ <h4 style="font-style:italic;">Perubahan Energi Listrik</h4>
+\ <ol>
+\ <li>Diubah Menjadi Energi Cahaya</li>
+\ <li>Diubah Menjadi Energi Gerak</li>
+\ <li>Diubah Menjadi Energi Panas</li>
+\ <li>Diubah Menjadi Energi Kimia</li>
+\ </ol>
+\ <br>
+\ <p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Sumber Energi Listrik</p>
+\ }q
+\ ;
+
 : study10thMsg
 q{
 <h3 style="font-style:italic;">Perubahan Energi Listrik</h3>
@@ -246,6 +267,14 @@ dan energi-energi lainnya yang dibutuhkan oleh manusia.</p>
 <p align="center" style="font-size:13px;font-style:italic;">Selanjutnya: Energi Listrik</p>
 }q
 ;
+
+\ : study10thMsg
+\ q{
+\ <h3 style="font-style:italic;"> Perubahan Energi Listrik </h3>
+\ <p> Energi listrik diperoleh dari perangkat yang dapat menghasilkan energi listrik. Sumber energi listrik diantaranya adalah:</p>
+\ 
+\ }q
+\ ;
 
 : study11thMsg
 q{

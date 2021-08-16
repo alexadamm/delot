@@ -59,13 +59,6 @@ kamu pelajari karena sangat berkaitan erat dengan kehidupan kita sehari-hari!</p
 
 \ Menu templates
 
-: bb
-q{
-</div><br>
-<img class="pic" src="https://lh6.googleusercontent.com/RMMP-214RetHaX5JTPlVN8-yPOjgq7ejvbRVBkXuY7uKhRheSDOYF-NsSB1zVwE32pYKBYEDzPxc84eUwVxThTTvlr_PPb3di7QHYjZ210qDQ8BjHu7QcBl-M2_S3x34Gm__zhmd" style="vertical-align:middle;border:none;">
-<div style="padding:10px;border-radius:16px;display:inline-block;text-align:left;vertical-align:middle;border:solid #ffb3b3 2px;color:#333;font-family:Hahmlet, serif;;font-size:16px;background:#EEE;word-wrap:break-word;min-width:40px;max-width:280px;">
-}q
-;
 
 : learnMenu
 ctx{ msg }
@@ -227,7 +220,7 @@ K: $back studyLastRoom
 
 end-room
 
-room: study5thRoom
+room: studyLastRoom
 
 Q: Selanjutnya
 A: ${ study14thMsg backMenu }
@@ -236,50 +229,7 @@ K: $back
 
 end-room
 
-room: study6thRoom
 
-Q: Selanjutnya
-A: ${ study6thMsg backMenu }
-K: $back study7thRoom
---
-
-end-room
-
-room: study7thRoom
-
-Q: Selanjutnya
-A: ${ study7thMsg backMenu }
-K: $back study8thRoom
---
-
-end-room
-
-room: study8thRoom
-
-Q: Selanjutnya
-A: ${ study8thMsg backMenu }
-K: $back study9thRoom
---
-
-end-room
-
-room: study9thRoom
-
-Q: Selanjutnya
-A: ${ study9thMsg backMenu }
-K: $back studyLastRoom
---
-
-end-room
-
-room: studyLastRoom
-
-Q: Selanjutnya
-A: ${ study10thMsg backMenu }
-K: $back 
---
-
-end-room
 
 Q: Belajar
 A: ${learn1stMsg} ${ "Ayo Belajar 📖" btn }
@@ -289,9 +239,4 @@ Q: $showLearnMenu
 A: ${ learnMenuMsg learnMenu }
 K: $back learnMenuNext
 --
-
-
-
-
-
 
