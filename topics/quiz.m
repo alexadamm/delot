@@ -34,6 +34,8 @@ q{
 }q
 ;
 
+
+
 : quizMenu
 ctx{ msg }
 "Siapp Dong 💪" btn "Kembali Ke Menu Utama" wbtn ctx{ rd previous }
