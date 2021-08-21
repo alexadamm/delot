@@ -25,16 +25,20 @@ q{
 
 : main-button ( "message" -- "s" )
 ctx{ msg }
-"Belajar 📚" btn "Kuis 📝" btn "Kalkulator 📱" btn ctx{ learn quiz count }
+"Belajar 📚" btn "Kuis 📝" btn "Kalkulator 📱" btn "Tips & Trick ⚡" btn "Funfact ✨" btn ctx{ learn quiz count tips fact }
 q{
+<title> Delot | Dynamic Electricity Bot </title>
 #{msg}<br>
 <p>#{learn}</p>
 <p>#{quiz}</p>
 <p>#{count}</p>
+<p>#{tips}</p>
+<p>#{fact}</p>
 }q
 ;
 
 
 Q: $showMainMenu
 A: ${ main-message main-button }
+K: $back 
 --

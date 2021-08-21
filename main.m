@@ -15,15 +15,18 @@ include ./topics/main-chat.m
 include ./topics/learn.m
 include ./topics/quiz.m
 include ./topics/calculator.m
+include ./topics/tipstrick.m
+include ./topics/facts.m
 include ./style.m
 
 
 : welcomeMsg
 q{
+<title> Delot | Dynamic Electricity Bot </title>
 <p> Hai sob, perkenalkan aku<b style="font-style:italic;">Delot</b>,<i>Dynamic Electricity Bot</i></p>
 <img src="https://lh4.googleusercontent.com/gk-TB1Vu42MhfXHGVxRQy9vRbkF-5aBFaCu2oRgU9a9uioUEPfc58A2Of5mTPMlRQfLc4zdIaZclLgMd2W0g3H3qC7qNTI5yMHZ6so844E6PEg7h49BqdoU3kiEZ8lp7mo7bRS6y" width="95%" length="95%" />
 <p> Disini aku mau bantuin kamu belajar tentang Listrik Dinamis!</p>
-<p> Apa kamu siap belajar bareng<b style="font-style:italic;">Delot</b>?</p>
+<p> Apa kamu siap belajar bareng<b style="font-style:italic;"> Delot</b>?</p>
 <br>
 }q
 ;
@@ -35,6 +38,18 @@ idk: I don't understand the question.
 : test 
   \ NOTE: Add your questions to test here.
   "siap" answer . cr
+  "kuis" answer . cr
+  "siapp dong" answer . cr
+  "D. 2,4 A" answer . cr
+  "selanjutnya" answer . cr
+  "kaca" answer . cr
+  "selanjutnya" answer . cr
+  "dan (3)" answer . cr
+  "selanjutnya" answer . cr
+  "240" answer . cr
+  "selanjutnya" answer . cr
+  "52" answer . cr
+  "selanjutnya" answer . cr
   
 ;
 
@@ -59,7 +74,7 @@ background: https://lh3.googleusercontent.com/uC42hFUrkJRzVDn_8QFSKphEZfaGjKbWCu
 \   background: https://lh6.googleusercontent.com/4Ay4697AYuATK82QxL5k2XTiLlqvjBFOZEzkQDqTtx6lu6kxMf2xL50DSYzkMjq2zq6MGQ97NY9W7T3Nu7alQT4egL1GWunIvFYFWUATUijLp2vC71dZ35H_ZRuo1qu4hTXxz6AA
   \ Image of the avatar to use.
 \   avatar: https://i.ibb.co/hCGZDwt/Logo.png
-  avatar: https://lh6.googleusercontent.com/RMMP-214RetHaX5JTPlVN8-yPOjgq7ejvbRVBkXuY7uKhRheSDOYF-NsSB1zVwE32pYKBYEDzPxc84eUwVxThTTvlr_PPb3di7QHYjZ210qDQ8BjHu7QcBl-M2_S3x34Gm__zhmd
+  avatar: https://lh4.googleusercontent.com/-PJwxy_xp9GF3Tui_71r50XVeov0fR7fGnV0kwG9n_UrU18hKO9yLZuMHrq0CwoRMnhUE4yZP5dqAzvgPxTDRzGeFP29V5yPnYX2UmFQlNAmD0VYajxb9jQEDM-z3e_CyLYg3mFD
   \ Optional border on avatar
   \ avatar-border: solid #AAA 1px
   avatar-border: none
@@ -73,10 +88,10 @@ background: https://lh3.googleusercontent.com/uC42hFUrkJRzVDn_8QFSKphEZfaGjKbWCu
   bubble-bot-background: #EEE
   \ Font Color & Background for user bubble
   bubble-user-color: white
-  bubble-user-background: #ffb3b3
+  bubble-user-background: #ddc1a7
   \ Other bubble properties
   \ bubble-border: solid blue 1px
-  bubble-border: solid #ffb3b3 2px
+  bubble-border: solid #ddc1a7 2.5px
   bubble-radius: 16
   bubble-font-size: 16
   \ Max Width of bot bubble, in pixels
@@ -87,7 +102,7 @@ limit: 1
   \ Optional properties of the "send" button.
   \ Here's a sample from flaticon.com
   \ <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-send-button-image-url: https://i.ibb.co/3hGHfp7/telegram-xxl.png
+send-button-image-url: https://i.ibb.co/YBBf4vL/telegram-xxl-1.png
 send-button-image-style: padding-left:5px;
 \   send-button-image-url: https://autocaffe.io/chat/play.png
 \   send-button-image-style: none
@@ -97,6 +112,6 @@ send-button-image-style: padding-left:5px;
   \ These will be visible when you share the link to your bot.
   title: Delot
   description: Dynamic Electricity Bot
-  thumbnail: https://lh3.googleusercontent.com/Rwalo5-vd6vGjdH0irCsqRQkXSi-pefr0lCxeoA_X_Ovk75JpEWsTTfPfpbRiFWMKCN91HYeijEIXZYx5VPaAk-q9suHWfg-WXziW3bxaSwL9RbqhBm1FbGS3jWM2jvk5HMYghW-
+  thumbnail: https://lh4.googleusercontent.com/-PJwxy_xp9GF3Tui_71r50XVeov0fR7fGnV0kwG9n_UrU18hKO9yLZuMHrq0CwoRMnhUE4yZP5dqAzvgPxTDRzGeFP29V5yPnYX2UmFQlNAmD0VYajxb9jQEDM-z3e_CyLYg3mFD
   
 ;

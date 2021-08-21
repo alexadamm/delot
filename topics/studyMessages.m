@@ -10,8 +10,10 @@
 
 : startStudyMsg
 q{
-<h2><i> Listrik Dinamis </i></h2>
-<h3><i> Definisi </i></h3>
+<title> Delot | Dynamic Electricity Bot </title>
+<p align="center" style="font-style:italic;font-size:10px;">1/14</p>
+<h2 align="center"><i> Listrik Dinamis </i></h2>
+<h3 align="center"><i> Definisi </i></h3>
 <p style="text-align:justify;"> &#10143; Listrik yang kita gunakan sehari-hari namanya adalah Listrik Dinamis.
 <i>Listrik Dinamis</i> artinya listrik yang bisa 
 <b> bergerak</b> atau <b> mengalir</b>.
@@ -27,7 +29,8 @@ listrik? Yuk kita cari jawabannya sekarang!</p>
 
 : study2ndMsg
 q{
-<h2><i> Kuat Arus Listrik </i></h2>
+<p align="center" style="font-style:italic;font-size:10px;">2/14</p>
+<h2 align="center"><i> Kuat Arus Listrik </i></h2>
 <p style="text-align:justify;"> &#10143; Aliran listrik ditimbulkan oleh muatan
 listrik yang bergerak di dalam suatu penghantar. 
 <b>Muatan listrik</b> dalam jumlah tertentu yang menembus 
@@ -54,7 +57,8 @@ rangkaian listrik loh! Nah, sekarang mari kita bahas rangkaian listrik. </p>
 
 : study3rdMsg
 q{
-<h2><i> Rangkaian Listrik </i></h2>
+<p align="center" style="font-style:italic;font-size:10px;">3/14</p>
+<h2 align="center"><i> Rangkaian Listrik </i></h2>
 <p style="text-align:justify;"> &#10143; Rangkaian listrik merupakan rangkaian yang terhubung oleh  <b>alat-alat yang tersambung oleh listrik</b> dan <b>teraliri arus listrik</b>. Rangkaian listrik terbagi ke dalam beberapa model.</p>
 <img src="https://lh3.googleusercontent.com/3lR5YG3pCtwR1WG4rza7BNOpdXoEPYiX09bJdUycBMsHKJo7eootzcGa2zDjAsO2tDUo9ghjYwq9-nNOBlcO_kvYF4X7OE8YHClQ9qIMN6QszHjFtfVbcUlBa-zkBjFVN6bZXgjF" length="95%" width="95%"/>
 <br>
@@ -66,15 +70,16 @@ pengertian rangkaian paralel dan seri ini? Yuk simak penjelasan di bawah ini!</p
 
 : study4thMsg
 q{
-<h3><i> Rangkaian Listrik </i></h3>
+<p align="center" style="font-style:italic;font-size:10px;">4/14</p>
+<h3 align="center"><i> Rangkaian Listrik </i></h3>
 <img src="https://lh5.googleusercontent.com/neuVXC4W1T4g9A_j3bXwfekUg6pySrG27IUTEiSot66w4sa-JrFxfaN8a-BEMcqZITsXr1yOow_6BSsLuhQww5I55uJWSc1sZb2eK9Bcj9t-HnhlwNJLwO5U3a2mIybGkjZ4vdrz" width="95%" length="95%" />
-<h4> Rangkaian Listrik Paralel </h4>
+<h4 align="center"> Rangkaian Listrik Paralel </h4>
 <ul style="list-style: '&#10143; ';">
 <li> Yaitu rangkaian listrik yang memiliki percabangan kabel.
 Jika salah satu kabel terputus maka arus listrik akan tetap mengalir
 pada kabel lainnya yang masih terhubung dan beberapa lampu lainnya akan tetap menyala.</li>
 </ul>
-<h4> Rangkaian Listrik Seri </h4>
+<h4 align="center"> Rangkaian Listrik Seri </h4>
 <ul style="list-style: '&#10143; ';">
 <li> Yaitu rangkaian listrik yang tidak memiliki percobaan kabel.
 Jika salah satu kabel terputus maka arus listrik pun akan terputus.</li>
@@ -86,25 +91,25 @@ Jika salah satu kabel terputus maka arus listrik pun akan terputus.</li>
 q{
 <style>
 a:link {
-  color: #ffb3b3;
+  color: #5b4f47;
   background-color: transparent;
   text-decoration: none;
   font-weight:bold;
 }
 a:visited {
-  color: #ffb3b3;
+  color: #5b4f47;
   background-color: transparent;
   text-decoration: none;
   font-weight:bold;
 }
 a:hover {
-  color: #ffcccc;
+  color: #ddc1a7;
   background-color: transparent;
   text-decoration: none;
   font-weight:bold;
 }
 a:active {
-  color: #ffcccc;
+  color: #ddc1a7;
   background-color: transparent;
   text-decoration: none;
   font-weight:bold;
@@ -120,7 +125,8 @@ ingin tahu perbedaan rangkain paralel dan rangkaian seri lebih dalam lagi yaa!
 
 : study5thMsg
 q{
-<h3><i> Hukum Kirchhoff </i></h3>
+<p align="center" style="font-style:italic;font-size:10px;">5/14</p>
+<h3 align="center"><i> Hukum Kirchhoff </i></h3>
 <p style="text-align:justify;"> &#10143; Di antara kamu pasti sudah pernah mendengar nama Kirchhoff dong, ya? 
 Yup, Kirchhoff merupakan salah satu fisikawan yang berjasa dalam ilmu kelistrikan. 
 Hukum Kirchhoff ditemukan oleh <b>Gustav Robert Kirchhoff</b>
@@ -144,7 +150,8 @@ muatan yang meninggalkan titik cabang itu</i>.</p>
 
 : study6thMsg
 q{
-<h4 style="font-style:italic;">Hukum I Kirchoff </h4>
+<p align="center" style="font-style:italic;font-size:10px;">6/14</p>
+<h4 align="center" style="font-style:italic;">Hukum I Kirchoff </h4>
 <p style="text-align:justify;"> Nah, di fisika, laju muatan listrik adalah
 <b> kuat arus listrik</b>. 
 Oleh karena itu, bunyi Hukum I Kirchhoff lebih umum ditulis:
@@ -170,7 +177,8 @@ percabangan I1 dan  I2 secara matematis dinyatakan sebagai
 
 : study7thMsg
 q{
-<h3 style="font-style:italic;">Rangkaian Hambatan Listrik</h3>
+<p align="center" style="font-style:italic;font-size:10px;">7/14</p>
+<h3 align="center" style="font-style:italic;">Rangkaian Hambatan Listrik</h3>
 <p style="text-align:justify;"> Hambatan ini bertugas untuk<b>menghambat arus listrik</b>.
 Nah, kalau ngga ada penghambat maka arus listriknya akan konsleting
 atau terjadi hubungan arus pendek dan menimbulkan kebakaran.</p>
@@ -192,7 +200,8 @@ q{
 
 : study8thMsg
 q{
-<h3 style="font-style:italic;">Rangkaian Hambatan Listrik</h3>
+<p align="center" style="font-style:italic;font-size:10px;">8/14</p>
+<h3 align="center" style="font-style:italic;">Rangkaian Hambatan Listrik</h3>
 <p style="text-align:justify;"> Hambatan listrik pada rangkaian listrik disusun menjadi dua macam, 
 rangkaian hambatan seri dan paralel.</p>
 <p style="text-align:justify;"> Pada rangkaian seri, hambatan pengganti jauh 
@@ -203,7 +212,7 @@ rangkaian paralel merupakan hasil <b>penjumlahan</b> dari seluruh rangkaian seri
 
 : study8thMsg2
 q{
-<h4>Rangkaian Seri </h4>
+<h4 align="center">Rangkaian Seri </h4>
 <p style="text-align:justify;"> Pada rangkaian seri = Kuat arus listrik bernilai <b>sama</b>, 
 tetapi tegangannya <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
 <img src="https://lh3.googleusercontent.com/AyH4Veg8FdpV0N1KcCEWmEcLx7afD_7pJMMjiOrsq2os7q8FBzmLvJmPXqB-eoOI-YOk_Vl29Ft1seU2HTUMNAJ_ux1VDgOGLaoAdkNfbQ3d7A4gd42JiFd67cvEouRDQE4aDAJ_" width="95%" height="95%" />
@@ -214,7 +223,8 @@ tetapi tegangannya <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar 
 
 : study9thMsg
 q{
-<h4>Rangkaian Paralel </h4>
+<p align="center" style="font-style:italic;font-size:10px;">9/14</p>
+<h4 align="center">Rangkaian Paralel </h4>
 <p style="text-align:justify;"> Pada rangkaian paralel = Tegangan listrik 
 <b>bertegangan sama</b>, tetapi kuat arus bernilai 
 <b>berbeda</b>. Sehingga dapat diilustrasikan seperti gambar berikut :</p>
@@ -226,14 +236,14 @@ q{
 
 \ : study9thMsg2
 \ q{
-\ <h3 style="font-style:italic;">Daya Listrik</h3>
+\ <h3 align="center" style="font-style:italic;">Daya Listrik</h3>
 \ <p> Daya listrik yang dihasilkan oleh perangkat elektronik dapat  diketahui dengan mengalikan beda potensial dan kuat arus listrik. Persamaannya dapat ditulis sebagai berikut.</p>
 \ <p> P = V × I</p>
 \ <p> Keterangan:</p>
 \ <p> P  = Daya listrik      (W)</p>
 \ <p> V  = Beda potensial    (V)</p>
 \ <p> I  = Kuat arus        (A)</p>
-\ <h4 style="font-style:italic;">Perubahan Energi Listrik</h4>
+\ <h4 align="center" style="font-style:italic;">Perubahan Energi Listrik</h4>
 \ <ol>
 \ <li>Diubah Menjadi Energi Cahaya</li>
 \ <li>Diubah Menjadi Energi Gerak</li>
@@ -247,7 +257,8 @@ q{
 
 : study10thMsg
 q{
-<h3 style="font-style:italic;">Perubahan Energi Listrik</h3>
+<p align="center" style="font-style:italic;font-size:10px;">10/14</p>
+<h3 align="center" style="font-style:italic;">Perubahan Energi Listrik</h3>
 <p style="text-align:justify;"> Kamu tau ga? menurut hukum kekekalan energi, energi itu
 <b> tidak dapat diciptakan </b> dan <b> dimusnahkan </b> namun, mereka dapat 
 <u> berubah bentuk </u> dari bentuk satu ke bentuk lainnya. Dengan kata lain, 
@@ -270,7 +281,7 @@ dan energi-energi lainnya yang dibutuhkan oleh manusia.</p>
 
 \ : study10thMsg
 \ q{
-\ <h3 style="font-style:italic;"> Perubahan Energi Listrik </h3>
+\ <h3 align="center" style="font-style:italic;"> Perubahan Energi Listrik </h3>
 \ <p> Energi listrik diperoleh dari perangkat yang dapat menghasilkan energi listrik. Sumber energi listrik diantaranya adalah:</p>
 \ 
 \ }q
@@ -278,7 +289,8 @@ dan energi-energi lainnya yang dibutuhkan oleh manusia.</p>
 
 : study11thMsg
 q{
-<h3 style="font-style:italic;">Energi Listrik</h3>
+<p align="center" style="font-style:italic;font-size:10px;">11/14</p>
+<h3 align="center" style="font-style:italic;">Energi Listrik</h3>
 <p style="text-align:justify;"> Nah, besarnya energi listrik ini dipengaruhi oleh
 <b> besarnya tegangan (V), kuat arus (I)</b> dan juga <b> waktu (t) loh.</b>
 <p style="text-align:justify;"> Sehingga apabila penghantar yang hambatannya (R) diberikan tegangan (V)
@@ -303,7 +315,8 @@ q{
 
 : study12thMsg
 q{
-<h3 style="font-style:italic;">Daya Listrik</h3>
+<p align="center" style="font-style:italic;font-size:10px;">12/14</p>
+<h3 align="center" style="font-style:italic;">Daya Listrik</h3>
 <p style="text-align:justify;"> Pernahkah kamu perhatikan alat-alat listrik yang ada di rumahmu?
 Jika kamu perhatikan dengan cermat, setiap peralatan listrik tersebut
 selalu mencantumkan spesifikasi dari alat-alat tersebut. Misalnya, pada
@@ -333,7 +346,8 @@ q{
 
 : study13thMsg
 q{
-<h4 style="font-style:italic;">Hubungan antara daya listrik dan energi listrik</h4>
+<p align="center" style="font-style:italic;font-size:10px;">13/14</p>
+<h4 align="center" style="font-style:italic;">Hubungan antara daya listrik dan energi listrik</h4>
 <p style="text-align:justify;"> Sebenernya Daya listrik itu sebanding dengan energi listrik,
 namun berbanding terbalik dengan waktu penggunaannya.</p>
 <img src="https://lh4.googleusercontent.com/E5xBqJ9m6_iNaTS7rmxjMY3KaPhiREt96AGO0TIUzvduZWYGmretyGTKQaSkl82ZcNLR0Xmqxxi_CaZmB9pJz_q9nuBqT08blz29YFsKZwoWJt7gU8t2AOcsl1DPGEgnssSiY1nB" width="95%" length="95%" />
@@ -347,16 +361,17 @@ listrik adalah kamu harus menggunakan peralatan listrik yang
 
 : study14thMsg
 q{
-<h3 style="font-style:italic;">Sumber Energi Listrik</h3>
+<p align="center" style="font-style:italic;font-size:10px;">14/14</p>
+<h3 align="center" style="font-style:italic;">Sumber Energi Listrik</h3>
 <p style="text-align:justify;"> Oh iya, kalian tau ga? Kalau energi listrik itu diperoleh dari benda-benda yang dapat
 <b> menghasilkan energi listrik</b> loh!
 Berikut ini beberapa sumber energi listrik diantaranya adalah:</p>
 <br />
-<h4>Baterai</h4>
+<h4 align="center">Baterai</h4>
 <p style="text-align:justify;"> Baterai termasuk elemen kering yang berisi zat kimia berbentuk padat. Baterai tersusun dari bagian luar (kutub negatif) dan bagian tengah (kutub positif).</p>
-<h4>Akumulator</h4>
+<h4 align="center">Akumulator</h4>
 <p style="text-align:justify;"> Akumulator (Aki) yang termasuk elemen basah karena elektrolitnya berupa zat cair (asam sulfat).</p>
-<h4>Dinamo</h4>
+<h4 align="center">Dinamo</h4>
 <p style="text-align:justify;"> Dinamo terdiri dari kumparan yang ditempatkan di tengah medan magnet, ketika ujung kepala dinamo berputar kumparan tersebut juga akan ikut berputar.</p>
 }q
 ;

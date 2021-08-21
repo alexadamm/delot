@@ -29,41 +29,22 @@ q{
 
 : summaryMsg
 q{
-<style>
-a:link {
-  color: #ffb3b3;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:visited {
-  color: #ffb3b3;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:hover {
-  color: #ffcccc;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-a:active {
-  color: #ffcccc;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight:bold;
-}
-</style>
 <h3 style="font-style:italic;">Rangkuman</h3>
 <img src="https://lh3.googleusercontent.com/6Vfz5hsbzyCjAWsaXmD8gpXHo02CGNKES-zQp9VJCP9oerMxggFgt1yk0R1istu4lMiAMJiavd2gR5NgTOhu7zIata8CRasld-tY3lng1YD74INWsnlH76FEbJpsjSIvfnH522Ho" width="95%" length="95%" />
-<p>Hi sahabat Delot! Berikut ini adalah file ringkasan materi Listrik Dinamis yang udah kamu pelajari tadi bareng Delot! File ini bisa kamu download dan kamu print yaa :<a href="https://drive.google.com/file/d/1eWqIm0JnyPxfskD25OilwDeGw0z6RuPs/view">Silahkan klik disini!</a></p>
+<p>Hi sahabat Delot! Berikut ini adalah file ringkasan materi Listrik Dinamis yang udah kamu pelajari tadi bareng Delot! File ini bisa kamu download dan kamu print yaa :</p>
 }q
 ;
 
 : summaryMsg2
 q{
-<p style="font-size:13px;font-style:italic;"> Thumbnail demo file: </p>
+<li style="font-size:13px;font-style:italic;"> Rangkuman Materi Listrik Dinamis: </p>
 <iframe src="https://drive.google.com/file/d/1eWqIm0JnyPxfskD25OilwDeGw0z6RuPs/preview" width="95%" height="95%" allow="autoplay"></iframe>
+}q
+;
+
+: summaryMsg3
+q{
+<li style="font-size:13px;font-style:italic;"> Rangkuman Flash-Card: </li>
+<iframe src="https://drive.google.com/file/d/1qkxhM-nsaejPYlPJYAsp4d1w181wamm3/preview" width="95%" height="95%" allow="autoplay"></iframe>
 }q
 ;
